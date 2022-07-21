@@ -11,7 +11,8 @@ f1, accuracy = train_model(data_path, model_path, product="titanic")
 titanic_model_registry_entry = ModelRegistryEntry(
     product_version="titanic",
     data_version="??",
-    model_metrics=dict(f1=f1, accuracy=accuracy),
+    f1_score=f1,
+    accuracy=accuracy,
     model_path=model_path,
     model_version="0.0.1",
 )
@@ -24,7 +25,8 @@ f1, accuracy = train_model(data_path, model_path, product="loans")
 loans_model_registry_entry = ModelRegistryEntry(
     product_version="loans",
     data_version="??",
-    model_metrics=dict(f1=f1, accuracy=accuracy),
+    f1_score=f1,
+    accuracy=accuracy,
     model_path=model_path,
     model_version="0.0.1",
 )
