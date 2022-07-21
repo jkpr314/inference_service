@@ -3,7 +3,7 @@ from dataclasses import asdict
 import pandas as pd
 import joblib
 
-from process_loan_data import process_loan_raw_data
+from process_data.process_loan_data import process_loan_raw_data
 
 df = pd.read_csv("data/prediction_rows/loan_data.csv")
 

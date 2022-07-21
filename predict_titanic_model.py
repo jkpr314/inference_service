@@ -3,7 +3,7 @@ from dataclasses import asdict
 import pandas as pd
 import joblib
 
-from process_titanic_data import process_titanic_raw_data
+from process_data.process_titanic_data import process_titanic_raw_data
 
 df = pd.read_csv("data/prediction_rows/titanic_data.csv")
 

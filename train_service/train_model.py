@@ -5,8 +5,8 @@ from train_titanic import train_titanic_model
 
 MODEL_REGISTRY = []
 
-data_path = "data/titanic_survive_train.csv"
-model_path = "models/titanic_model.joblib"
+data_path = "../data/titanic_survive_train.csv"
+model_path = "../models/titanic_model.joblib"
 f1, accuracy = train_titanic_model(data_path, model_path)
 titanic_model_registry_entry = ModelRegistryEntry(
     product_version="titanic",
@@ -18,8 +18,8 @@ titanic_model_registry_entry = ModelRegistryEntry(
 
 MODEL_REGISTRY.append(titanic_model_registry_entry)
 
-model_path = "models/loan_model.joblib"
-data_path = "data/loan_default_train_data.csv"
+model_path = "../models/loan_model.joblib"
+data_path = "../data/loan_default_train_data.csv"
 f1, accuracy = train_loans_model(data_path, model_path)
 loans_model_registry_entry = ModelRegistryEntry(
     product_version="loans",
