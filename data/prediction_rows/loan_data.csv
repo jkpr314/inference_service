@@ -1,0 +1,751 @@
+Id,Home Ownership,Annual Income,Years in current job,Tax Liens,Number of Open Accounts,Years of Credit History,Maximum Open Credit,Number of Credit Problems,Months since last delinquent,Bankruptcies,Purpose,Term,Current Loan Amount,Current Credit Balance,Monthly Debt,Credit Score,Credit Default
+970,Home Mortgage,2396375.0,6 years,0.0,9.0,10.5,335280.0,1.0,8.0,1.0,debt consolidation,Short Term,621544.0,139859.0,33350.0,7130.0,1
+6279,Home Mortgage,,5 years,0.0,8.0,14.0,883014.0,0.0,,0.0,debt consolidation,Short Term,157256.0,183027.0,3492.0,,0
+1859,Home Mortgage,2056351.0,10+ years,0.0,17.0,14.0,1022714.0,0.0,,0.0,debt consolidation,Long Term,601744.0,391286.0,29132.0,718.0,0
+6803,Home Mortgage,,10+ years,0.0,12.0,16.4,312356.0,0.0,,0.0,debt consolidation,Short Term,215424.0,161329.0,7625.0,,0
+6305,Rent,817551.0,6 years,0.0,8.0,8.8,279620.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,155990.0,3781.0,740.0,0
+3039,Rent,,8 years,0.0,16.0,34.0,1083588.0,0.0,25.0,0.0,other,Short Term,112046.0,265772.0,16023.0,,0
+7194,Home Mortgage,2274300.0,4 years,0.0,10.0,19.4,366410.0,1.0,,1.0,debt consolidation,Short Term,109736.0,224675.0,9779.0,719.0,1
+1446,Home Mortgage,1292399.0,10+ years,0.0,15.0,16.0,508926.0,0.0,7.0,0.0,home improvements,Long Term,262152.0,185915.0,22186.0,697.0,1
+5199,Own Home,1155276.0,,0.0,11.0,29.5,858990.0,0.0,34.0,0.0,debt consolidation,Long Term,534512.0,349410.0,15211.0,720.0,0
+6234,Home Mortgage,2497664.0,8 years,0.0,11.0,28.5,1718046.0,0.0,,0.0,debt consolidation,Long Term,775698.0,1235969.0,51036.0,6810.0,1
+4316,Own Home,,10+ years,0.0,10.0,21.4,415954.0,0.0,,0.0,debt consolidation,Short Term,219868.0,131119.0,10596.0,,1
+5922,Rent,,10+ years,0.0,7.0,18.7,317306.0,0.0,,0.0,debt consolidation,Short Term,303050.0,192375.0,18487.0,,0
+6027,Rent,,1 year,0.0,17.0,8.7,475354.0,0.0,,0.0,debt consolidation,Short Term,88396.0,247551.0,17151.0,,0
+1850,Rent,1088548.0,10+ years,0.0,12.0,30.3,1348512.0,0.0,63.0,0.0,debt consolidation,Long Term,451484.0,682461.0,26397.0,718.0,1
+429,Rent,1206842.0,7 years,0.0,11.0,14.0,438438.0,0.0,29.0,0.0,debt consolidation,Short Term,343970.0,293075.0,10560.0,706.0,0
+101,Rent,960260.0,10+ years,0.0,10.0,16.3,796312.0,0.0,34.0,0.0,other,Long Term,333564.0,320473.0,16645.0,617.0,0
+4707,Rent,881467.0,10+ years,0.0,10.0,17.5,104016.0,0.0,32.0,0.0,other,Short Term,148324.0,2793.0,12340.0,744.0,0
+465,Rent,625328.0,1 year,0.0,11.0,20.4,239734.0,1.0,,1.0,medical bills,Short Term,121264.0,11381.0,688.0,743.0,0
+4129,Home Mortgage,1458345.0,10+ years,0.0,19.0,34.0,1713866.0,0.0,,0.0,debt consolidation,Long Term,290994.0,399646.0,13672.0,737.0,1
+4828,Own Home,300352.0,10+ years,0.0,5.0,30.0,315326.0,0.0,,0.0,debt consolidation,Short Term,123904.0,148143.0,4756.0,727.0,0
+3504,Rent,640737.0,3 years,0.0,11.0,18.3,810392.0,0.0,12.0,0.0,debt consolidation,Short Term,213026.0,193876.0,10999.0,707.0,0
+6766,Home Mortgage,,7 years,0.0,9.0,9.9,351450.0,0.0,,0.0,debt consolidation,Long Term,344960.0,204573.0,17981.0,,0
+2778,Home Mortgage,1494160.0,2 years,0.0,22.0,19.6,1247972.0,0.0,63.0,0.0,debt consolidation,Long Term,756910.0,898890.0,37728.0,661.0,0
+3984,Rent,,4 years,0.0,8.0,30.8,1068980.0,0.0,,0.0,debt consolidation,Short Term,309584.0,601008.0,19418.0,,0
+5239,Home Mortgage,,4 years,0.0,13.0,11.7,668008.0,0.0,61.0,0.0,debt consolidation,Short Term,449592.0,412490.0,31669.0,,0
+576,Rent,1587298.0,1 year,0.0,14.0,15.6,547074.0,0.0,27.0,0.0,debt consolidation,Short Term,533434.0,413877.0,43783.0,715.0,1
+4466,Home Mortgage,1508524.0,8 years,0.0,11.0,18.6,421212.0,0.0,8.0,0.0,debt consolidation,Short Term,268730.0,196441.0,18228.0,739.0,0
+7141,Rent,1080910.0,10+ years,0.0,21.0,19.2,491656.0,0.0,28.0,0.0,debt consolidation,Short Term,312906.0,399551.0,21168.0,709.0,0
+6636,Rent,2697981.0,3 years,0.0,12.0,20.8,672980.0,0.0,44.0,0.0,debt consolidation,Short Term,436920.0,402211.0,17762.0,697.0,0
+3014,Rent,,8 years,0.0,11.0,8.7,1157706.0,0.0,,0.0,other,Short Term,129844.0,91979.0,2555.0,,1
+3246,Home Mortgage,520524.0,6 years,0.0,12.0,14.0,589336.0,0.0,,0.0,debt consolidation,Short Term,150128.0,248881.0,14488.0,6900.0,1
+5502,Home Mortgage,523906.0,10+ years,0.0,12.0,31.9,311828.0,0.0,5.0,0.0,debt consolidation,Short Term,122408.0,87799.0,9649.0,690.0,1
+7173,Rent,1165745.0,6 years,0.0,13.0,14.0,372702.0,1.0,,1.0,debt consolidation,Short Term,239492.0,75639.0,10395.0,728.0,0
+4509,Home Mortgage,1015645.0,,2.0,4.0,14.5,269456.0,3.0,,0.0,other,Short Term,129580.0,77273.0,2895.0,652.0,0
+3532,Rent,1567215.0,2 years,0.0,19.0,17.7,601062.0,0.0,61.0,0.0,debt consolidation,Short Term,524722.0,397613.0,36830.0,717.0,0
+1858,Rent,643378.0,1 year,0.0,7.0,10.9,550770.0,0.0,,0.0,buy a car,Short Term,75438.0,74195.0,9329.0,736.0,0
+3481,Rent,1639054.0,3 years,0.0,4.0,9.1,140514.0,0.0,,0.0,other,Short Term,99999999.0,64448.0,12853.0,733.0,0
+538,Rent,1213036.0,10+ years,0.0,11.0,15.8,305448.0,2.0,,2.0,debt consolidation,Short Term,44594.0,13186.0,15769.0,749.0,0
+5890,Rent,933375.0,10+ years,0.0,17.0,20.1,768372.0,0.0,,0.0,debt consolidation,Short Term,216150.0,152627.0,6254.0,741.0,0
+4979,Home Mortgage,1474324.0,4 years,0.0,14.0,16.9,540870.0,1.0,33.0,1.0,debt consolidation,Long Term,404316.0,147611.0,28012.0,663.0,0
+7147,Home Mortgage,1580363.0,6 years,0.0,7.0,19.6,556644.0,0.0,17.0,0.0,debt consolidation,Short Term,332706.0,423529.0,16857.0,683.0,0
+3381,Rent,897598.0,10+ years,0.0,7.0,16.6,163702.0,0.0,47.0,0.0,debt consolidation,Long Term,129910.0,108300.0,11669.0,717.0,1
+2266,Home Mortgage,1993765.0,1 year,0.0,19.0,20.0,485562.0,0.0,20.0,0.0,debt consolidation,Long Term,366784.0,325413.0,26251.0,715.0,0
+1795,Home Mortgage,1021174.0,10+ years,0.0,18.0,17.5,1665774.0,0.0,,0.0,other,Short Term,99999999.0,487692.0,25019.0,733.0,0
+1726,Home Mortgage,,10+ years,0.0,12.0,24.4,668998.0,0.0,,0.0,debt consolidation,Short Term,350834.0,461073.0,15633.0,,1
+3135,Rent,2897880.0,1 year,0.0,3.0,17.6,626450.0,0.0,,0.0,business loan,Short Term,782936.0,425258.0,28737.0,696.0,0
+3082,Home Mortgage,3997334.0,8 years,0.0,21.0,24.1,1284602.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,495919.0,43305.0,691.0,0
+132,Home Mortgage,1594176.0,10+ years,0.0,8.0,18.0,909018.0,0.0,,0.0,business loan,Long Term,434324.0,372115.0,6509.0,735.0,1
+1188,Rent,,10+ years,0.0,10.0,17.3,254760.0,1.0,,1.0,debt consolidation,Short Term,124168.0,74366.0,14343.0,,0
+6865,Rent,886901.0,5 years,0.0,11.0,16.8,465938.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,283689.0,14412.0,745.0,0
+4058,Rent,2701230.0,6 years,0.0,6.0,26.9,560296.0,0.0,,0.0,debt consolidation,Long Term,781946.0,201780.0,15037.0,718.0,0
+554,Home Mortgage,772920.0,6 years,0.0,8.0,14.0,512072.0,0.0,,0.0,debt consolidation,Short Term,293656.0,273752.0,14621.0,737.0,1
+5388,Home Mortgage,1903154.0,10+ years,0.0,17.0,13.3,708290.0,0.0,,0.0,debt consolidation,Short Term,449724.0,494874.0,46627.0,741.0,1
+2821,Home Mortgage,1218337.0,10+ years,0.0,10.0,18.7,256036.0,0.0,10.0,0.0,debt consolidation,Short Term,130218.0,140866.0,21219.0,731.0,0
+2885,Home Mortgage,3444966.0,10+ years,0.0,17.0,24.7,1675894.0,0.0,75.0,0.0,debt consolidation,Short Term,775632.0,790248.0,47081.0,735.0,0
+736,Rent,1613062.0,1 year,0.0,25.0,21.5,456698.0,2.0,,2.0,debt consolidation,Long Term,316426.0,242573.0,15190.0,659.0,1
+2833,Home Mortgage,837387.0,1 year,0.0,9.0,17.5,237138.0,0.0,75.0,0.0,buy a car,Long Term,107734.0,98306.0,9958.0,682.0,1
+3820,Home Mortgage,1789572.0,1 year,0.0,10.0,10.0,359656.0,1.0,,1.0,debt consolidation,Long Term,330660.0,168663.0,18641.0,675.0,1
+7144,Home Mortgage,1987875.0,1 year,0.0,20.0,18.0,5590750.0,0.0,,0.0,home improvements,Short Term,21516.0,91732.0,1590.0,750.0,0
+601,Home Mortgage,,8 years,0.0,9.0,13.0,454344.0,0.0,,0.0,debt consolidation,Long Term,327756.0,224048.0,5877.0,,0
+2029,Home Mortgage,1428420.0,8 years,0.0,16.0,17.7,866382.0,0.0,16.0,0.0,debt consolidation,Short Term,99999999.0,417525.0,29878.0,741.0,0
+4292,Own Home,285779.0,9 years,0.0,9.0,19.3,251592.0,1.0,3.0,1.0,debt consolidation,Short Term,137324.0,96045.0,3072.0,727.0,0
+2138,Rent,,,0.0,11.0,14.3,181104.0,1.0,,1.0,debt consolidation,Short Term,80674.0,67716.0,12797.0,,0
+1793,Rent,763496.0,10+ years,0.0,12.0,17.6,1700644.0,0.0,,0.0,debt consolidation,Short Term,232056.0,512601.0,17242.0,750.0,0
+6122,Rent,1796450.0,2 years,0.0,6.0,20.0,108196.0,0.0,29.0,0.0,debt consolidation,Short Term,346676.0,28025.0,10719.0,736.0,0
+4059,Rent,1549260.0,10+ years,0.0,5.0,15.1,152592.0,1.0,24.0,0.0,other,Long Term,224224.0,43225.0,8172.0,727.0,1
+1672,Rent,1788584.0,10+ years,0.0,7.0,11.3,0.0,0.0,6.0,0.0,other,Short Term,174394.0,0.0,18333.0,743.0,0
+3980,Home Mortgage,1700633.0,2 years,0.0,17.0,23.4,1172314.0,0.0,34.0,0.0,debt consolidation,Short Term,99999999.0,654037.0,38831.0,740.0,0
+6550,Home Mortgage,1165878.0,10+ years,0.0,22.0,24.0,301774.0,0.0,7.0,0.0,debt consolidation,Short Term,314996.0,114152.0,31673.0,697.0,1
+6733,Home Mortgage,775428.0,10+ years,0.0,13.0,15.5,191422.0,0.0,62.0,0.0,debt consolidation,Short Term,224466.0,156731.0,11955.0,7250.0,1
+3437,Home Mortgage,1329069.0,4 years,1.0,11.0,27.6,362164.0,2.0,17.0,0.0,buy house,Short Term,263824.0,47538.0,19050.0,704.0,0
+7165,Own Home,1507688.0,4 years,0.0,11.0,12.8,714274.0,0.0,7.0,0.0,debt consolidation,Short Term,523732.0,310289.0,7149.0,713.0,0
+6323,Home Mortgage,750880.0,,0.0,10.0,33.5,528264.0,0.0,44.0,0.0,home improvements,Short Term,97812.0,327123.0,20336.0,731.0,0
+5076,Rent,965371.0,5 years,0.0,11.0,18.1,354442.0,1.0,,1.0,debt consolidation,Long Term,391446.0,256519.0,15534.0,676.0,0
+251,Rent,730835.0,2 years,0.0,6.0,19.4,63184.0,0.0,11.0,0.0,wedding,Short Term,107976.0,29089.0,14465.0,737.0,1
+65,Rent,1280125.0,10+ years,0.0,8.0,13.3,362934.0,0.0,,0.0,debt consolidation,Short Term,318582.0,204991.0,16428.0,741.0,1
+318,Home Mortgage,559151.0,10+ years,0.0,5.0,17.8,447326.0,0.0,,0.0,debt consolidation,Short Term,89298.0,84987.0,1580.0,742.0,0
+6187,Own Home,2228016.0,4 years,0.0,15.0,27.4,1980792.0,0.0,,0.0,buy a car,Short Term,150480.0,1110246.0,44783.0,745.0,0
+408,Home Mortgage,1473260.0,10+ years,0.0,6.0,39.0,323466.0,0.0,,0.0,debt consolidation,Short Term,87472.0,126274.0,19398.0,714.0,0
+2375,Own Home,1200838.0,10+ years,0.0,8.0,22.4,6890070.0,0.0,,0.0,debt consolidation,Short Term,194216.0,1630447.0,23016.0,705.0,0
+3439,Rent,809419.0,5 years,0.0,13.0,14.4,694056.0,0.0,,0.0,debt consolidation,Short Term,111584.0,429172.0,17874.0,737.0,1
+733,Own Home,858211.0,10+ years,0.0,13.0,29.2,221694.0,0.0,58.0,0.0,debt consolidation,Short Term,85976.0,22021.0,16950.0,699.0,0
+6549,Home Mortgage,3797720.0,7 years,0.0,12.0,17.0,640134.0,0.0,,0.0,buy house,Long Term,769538.0,378689.0,50636.0,6690.0,1
+4951,Rent,1047831.0,10+ years,0.0,9.0,16.3,492404.0,0.0,34.0,0.0,debt consolidation,Short Term,99999999.0,208810.0,10478.0,728.0,0
+61,Home Mortgage,866476.0,1 year,0.0,15.0,12.9,239800.0,0.0,,0.0,debt consolidation,Long Term,99999999.0,130891.0,11770.0,701.0,0
+1979,Rent,402990.0,4 years,0.0,9.0,11.0,512028.0,0.0,,0.0,debt consolidation,Short Term,134992.0,180861.0,5272.0,738.0,1
+5509,Home Mortgage,2812095.0,10+ years,0.0,9.0,14.2,371162.0,0.0,20.0,0.0,debt consolidation,Short Term,130240.0,95190.0,13357.0,750.0,0
+2781,Rent,1061454.0,4 years,0.0,7.0,19.0,300740.0,0.0,,0.0,wedding,Short Term,99999999.0,187264.0,8810.0,733.0,0
+2943,Own Home,845253.0,10+ years,0.0,7.0,15.3,333366.0,0.0,,0.0,debt consolidation,Short Term,217492.0,269477.0,9509.0,702.0,0
+7211,Home Mortgage,1135991.0,8 years,0.0,10.0,16.8,379390.0,0.0,6.0,0.0,debt consolidation,Short Term,443784.0,283423.0,14673.0,7340.0,1
+2080,Own Home,,2 years,0.0,14.0,20.0,501512.0,0.0,,0.0,debt consolidation,Long Term,640354.0,328320.0,19650.0,,0
+4554,Home Mortgage,1496592.0,10+ years,0.0,8.0,22.0,110308.0,0.0,,0.0,debt consolidation,Long Term,99999999.0,11438.0,17373.0,744.0,0
+1703,Rent,244682.0,< 1 year,0.0,5.0,9.0,448690.0,0.0,,0.0,major purchase,Short Term,87164.0,227088.0,5750.0,747.0,0
+4586,Home Mortgage,,10+ years,0.0,8.0,14.7,1575640.0,0.0,,0.0,debt consolidation,Short Term,442992.0,559284.0,8951.0,,0
+1024,Home Mortgage,834233.0,3 years,0.0,18.0,22.9,1160962.0,0.0,46.0,0.0,debt consolidation,Short Term,98208.0,189506.0,21690.0,723.0,0
+5681,Rent,1120335.0,10+ years,0.0,14.0,20.0,723140.0,1.0,,1.0,debt consolidation,Short Term,76956.0,408443.0,22967.0,686.0,0
+2110,Rent,1346663.0,10+ years,0.0,10.0,14.5,385484.0,0.0,19.0,0.0,debt consolidation,Long Term,532752.0,241034.0,21995.0,663.0,0
+6880,Home Mortgage,,7 years,0.0,11.0,23.4,1770648.0,0.0,48.0,0.0,debt consolidation,Short Term,448272.0,1402276.0,60080.0,,0
+3378,Own Home,1503128.0,< 1 year,0.0,4.0,14.0,84810.0,0.0,16.0,0.0,debt consolidation,Long Term,556952.0,66367.0,15157.0,671.0,0
+3413,Home Mortgage,1496896.0,10+ years,0.0,11.0,28.5,1023858.0,0.0,,0.0,debt consolidation,Long Term,606628.0,461567.0,22703.0,708.0,0
+319,Own Home,,< 1 year,0.0,2.0,10.5,0.0,0.0,,0.0,business loan,Short Term,76670.0,0.0,6432.0,,0
+2251,Home Mortgage,1331463.0,10+ years,0.0,21.0,28.5,425260.0,0.0,15.0,0.0,home improvements,Short Term,330374.0,223307.0,37725.0,730.0,1
+996,Home Mortgage,677901.0,< 1 year,0.0,11.0,11.3,174284.0,0.0,,0.0,debt consolidation,Short Term,215050.0,124925.0,14292.0,741.0,0
+472,Own Home,,1 year,0.0,6.0,16.0,237468.0,0.0,2.0,0.0,debt consolidation,Short Term,88352.0,817.0,12973.0,,0
+2445,Rent,959785.0,10+ years,0.0,9.0,25.7,857736.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,237044.0,9998.0,738.0,0
+1790,Rent,1313622.0,10+ years,0.0,9.0,19.1,319220.0,1.0,53.0,1.0,home improvements,Long Term,760518.0,102011.0,20471.0,653.0,1
+4456,Rent,1653266.0,10+ years,0.0,8.0,17.0,606408.0,0.0,42.0,0.0,debt consolidation,Short Term,326304.0,237253.0,10237.0,725.0,0
+1671,Home Mortgage,1326941.0,,0.0,9.0,17.0,487102.0,0.0,,0.0,debt consolidation,Long Term,316074.0,424061.0,28419.0,727.0,1
+5894,Home Mortgage,1221415.0,10+ years,0.0,10.0,16.9,868208.0,0.0,,0.0,debt consolidation,Long Term,559174.0,465633.0,23716.0,689.0,0
+5398,Home Mortgage,2054869.0,8 years,0.0,18.0,14.4,2009370.0,0.0,,0.0,debt consolidation,Short Term,264374.0,1112374.0,39214.0,746.0,0
+6053,Home Mortgage,,6 years,0.0,20.0,20.5,362890.0,0.0,,0.0,debt consolidation,Short Term,147708.0,164521.0,28141.0,,0
+5609,Home Mortgage,1123242.0,9 years,0.0,12.0,12.4,1545082.0,0.0,,0.0,debt consolidation,Short Term,138732.0,320264.0,13104.0,751.0,0
+4618,Own Home,905426.0,10+ years,0.0,9.0,14.0,321442.0,1.0,,1.0,debt consolidation,Short Term,218416.0,114931.0,3946.0,744.0,0
+625,Home Mortgage,1102988.0,5 years,0.0,17.0,15.0,453772.0,0.0,,0.0,debt consolidation,Long Term,309936.0,277457.0,18291.0,673.0,1
+4740,Home Mortgage,1511640.0,2 years,0.0,8.0,18.5,698016.0,0.0,,0.0,debt consolidation,Long Term,531652.0,578113.0,15116.0,6650.0,1
+7082,Own Home,,3 years,0.0,14.0,27.9,182094.0,0.0,25.0,0.0,renewable energy,Short Term,21912.0,49533.0,9878.0,,1
+5605,Home Mortgage,1589331.0,10+ years,0.0,16.0,15.7,1161248.0,0.0,,0.0,debt consolidation,Short Term,194854.0,439261.0,12715.0,742.0,0
+3305,Home Mortgage,,1 year,0.0,8.0,34.5,253462.0,1.0,22.0,1.0,debt consolidation,Short Term,87472.0,112081.0,12983.0,,0
+7343,Rent,1034873.0,10+ years,0.0,15.0,10.0,337920.0,0.0,,0.0,debt consolidation,Short Term,261448.0,219165.0,26562.0,728.0,0
+4672,Own Home,447374.0,< 1 year,0.0,3.0,17.6,397122.0,0.0,,0.0,home improvements,Long Term,107932.0,135812.0,8612.0,738.0,0
+5230,Rent,,3 years,0.0,5.0,22.0,667502.0,0.0,,0.0,other,Short Term,55484.0,220210.0,6842.0,,0
+6887,Home Mortgage,1629421.0,9 years,0.0,7.0,23.4,274230.0,1.0,50.0,1.0,debt consolidation,Short Term,298364.0,161044.0,12017.0,741.0,0
+7031,Rent,,7 years,0.0,8.0,15.8,937310.0,0.0,,0.0,other,Short Term,86152.0,141664.0,17022.0,,1
+3422,Home Mortgage,621053.0,1 year,0.0,9.0,9.1,191818.0,0.0,,0.0,debt consolidation,Short Term,130746.0,128060.0,14957.0,726.0,0
+1803,Home Mortgage,1163370.0,4 years,0.0,3.0,15.0,38170.0,0.0,25.0,0.0,other,Short Term,71852.0,28709.0,3471.0,736.0,1
+1199,Home Mortgage,1401212.0,10+ years,0.0,14.0,13.6,449900.0,0.0,26.0,0.0,debt consolidation,Long Term,346126.0,221863.0,17982.0,675.0,1
+4160,Home Mortgage,2320850.0,10+ years,0.0,9.0,23.4,828322.0,0.0,28.0,0.0,business loan,Long Term,99999999.0,235353.0,21990.0,739.0,0
+6208,Home Mortgage,1512970.0,< 1 year,0.0,19.0,16.0,363836.0,0.0,9.0,0.0,debt consolidation,Short Term,179674.0,217436.0,12986.0,742.0,0
+5666,Home Mortgage,927105.0,3 years,0.0,14.0,18.6,996204.0,0.0,,0.0,debt consolidation,Short Term,107360.0,17214.0,3484.0,748.0,0
+982,Home Mortgage,843638.0,10+ years,0.0,13.0,25.1,745932.0,0.0,80.0,0.0,debt consolidation,Short Term,99999999.0,152684.0,21723.0,739.0,0
+393,Rent,2415698.0,2 years,0.0,8.0,15.7,520146.0,0.0,29.0,0.0,debt consolidation,Short Term,437052.0,431699.0,32411.0,747.0,0
+6620,Home Mortgage,,3 years,0.0,4.0,8.3,44836.0,0.0,,0.0,home improvements,Short Term,39226.0,33117.0,8502.0,,1
+2310,Own Home,770336.0,4 years,0.0,8.0,12.0,116006.0,0.0,31.0,0.0,debt consolidation,Short Term,44594.0,43586.0,5450.0,722.0,0
+3203,Rent,448286.0,1 year,0.0,6.0,11.6,354882.0,0.0,,0.0,debt consolidation,Short Term,43252.0,281656.0,7322.0,724.0,1
+1731,Home Mortgage,2250132.0,10+ years,0.0,17.0,16.5,1616054.0,0.0,,0.0,debt consolidation,Short Term,260546.0,1110968.0,43503.0,733.0,1
+1732,Rent,1047033.0,3 years,0.0,11.0,9.9,215864.0,0.0,,0.0,other,Short Term,89804.0,68229.0,7303.0,697.0,0
+3126,Home Mortgage,1353541.0,1 year,0.0,6.0,27.4,100782.0,0.0,78.0,0.0,medical bills,Short Term,40304.0,65018.0,16694.0,716.0,0
+4354,Rent,698155.0,2 years,0.0,7.0,15.0,627022.0,0.0,,0.0,debt consolidation,Short Term,262174.0,257222.0,5585.0,741.0,1
+7206,Home Mortgage,1500392.0,5 years,0.0,11.0,26.0,842974.0,0.0,,0.0,debt consolidation,Short Term,542916.0,588981.0,21506.0,732.0,0
+4936,Rent,674690.0,2 years,0.0,11.0,9.8,223454.0,0.0,,0.0,debt consolidation,Short Term,155166.0,143583.0,11807.0,7170.0,1
+2902,Home Mortgage,2030112.0,5 years,0.0,25.0,15.0,374000.0,0.0,44.0,0.0,debt consolidation,Short Term,99999999.0,288762.0,16139.0,750.0,0
+7044,Rent,1223391.0,6 years,0.0,14.0,18.5,313940.0,0.0,38.0,0.0,debt consolidation,Long Term,589512.0,115767.0,17128.0,670.0,1
+37,Rent,,5 years,0.0,13.0,18.0,608652.0,0.0,,0.0,debt consolidation,Short Term,122936.0,221825.0,10806.0,,1
+586,Rent,976714.0,5 years,0.0,11.0,13.9,387002.0,0.0,,0.0,debt consolidation,Short Term,221056.0,219583.0,17369.0,742.0,0
+4375,Home Mortgage,1006677.0,10+ years,0.0,12.0,17.7,165814.0,0.0,,0.0,debt consolidation,Short Term,124410.0,95950.0,23405.0,717.0,0
+457,Home Mortgage,802712.0,6 years,0.0,14.0,11.4,663080.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,125419.0,12709.0,747.0,0
+2398,Home Mortgage,1396994.0,9 years,0.0,11.0,10.5,422334.0,1.0,,1.0,debt consolidation,Short Term,175230.0,234897.0,23051.0,734.0,0
+1677,Rent,,< 1 year,0.0,8.0,5.4,136290.0,0.0,,0.0,other,Short Term,536602.0,50388.0,10057.0,,0
+5214,Home Mortgage,1393175.0,,0.0,12.0,26.2,611138.0,0.0,92.0,0.0,debt consolidation,Short Term,56012.0,131423.0,10542.0,748.0,0
+95,Home Mortgage,805828.0,9 years,0.0,8.0,20.5,657360.0,0.0,38.0,0.0,debt consolidation,Short Term,199936.0,250933.0,13565.0,740.0,0
+2540,Own Home,341525.0,,0.0,3.0,19.9,213312.0,0.0,,0.0,debt consolidation,Short Term,142802.0,71858.0,1992.0,734.0,0
+169,Home Mortgage,2334226.0,,0.0,13.0,31.4,2170894.0,0.0,,0.0,debt consolidation,Short Term,465234.0,628083.0,30150.0,750.0,0
+1608,Home Mortgage,2663724.0,1 year,0.0,9.0,19.1,1741036.0,0.0,,0.0,home improvements,Short Term,660924.0,166896.0,11476.0,748.0,0
+2094,Home Mortgage,1464235.0,10+ years,0.0,18.0,17.6,581724.0,0.0,14.0,0.0,debt consolidation,Long Term,321926.0,355186.0,25868.0,673.0,0
+6612,Rent,1362053.0,,0.0,8.0,44.5,667590.0,1.0,,1.0,other,Short Term,135190.0,515432.0,22133.0,720.0,0
+1041,Rent,1264146.0,10+ years,0.0,18.0,15.5,954998.0,0.0,,0.0,debt consolidation,Short Term,270226.0,317528.0,30972.0,744.0,0
+2952,Home Mortgage,,6 years,0.0,16.0,14.9,402666.0,1.0,,1.0,debt consolidation,Short Term,218812.0,272289.0,17858.0,,0
+6710,Own Home,928872.0,2 years,0.0,13.0,24.0,468314.0,1.0,40.0,1.0,debt consolidation,Short Term,336116.0,185630.0,11456.0,728.0,0
+4698,Home Mortgage,637032.0,8 years,0.0,8.0,17.5,147576.0,0.0,,0.0,home improvements,Short Term,181610.0,111511.0,18155.0,727.0,1
+2571,Home Mortgage,678889.0,10+ years,0.0,12.0,32.8,279642.0,0.0,68.0,0.0,debt consolidation,Short Term,273108.0,150461.0,14483.0,7420.0,1
+6982,Rent,744572.0,1 year,0.0,9.0,12.8,194062.0,0.0,,0.0,debt consolidation,Long Term,150876.0,115140.0,7948.0,726.0,0
+2939,Home Mortgage,966283.0,6 years,0.0,11.0,15.4,517858.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,402078.0,17474.0,741.0,0
+5551,Rent,888706.0,3 years,0.0,15.0,12.0,843788.0,0.0,,0.0,debt consolidation,Short Term,246752.0,401527.0,19033.0,712.0,1
+4257,Rent,928587.0,4 years,0.0,11.0,18.6,193028.0,0.0,67.0,0.0,debt consolidation,Short Term,184316.0,117363.0,18107.0,717.0,0
+5597,Home Mortgage,,9 years,0.0,14.0,15.2,428164.0,0.0,31.0,0.0,debt consolidation,Long Term,541046.0,255512.0,33020.0,,1
+6954,Rent,,10+ years,0.0,9.0,15.7,917994.0,0.0,,0.0,debt consolidation,Short Term,278652.0,411464.0,17437.0,,0
+1176,Rent,2826915.0,10+ years,0.0,6.0,31.6,377652.0,0.0,19.0,0.0,debt consolidation,Short Term,380798.0,274284.0,43110.0,684.0,0
+4370,Own Home,1288675.0,3 years,0.0,4.0,12.6,201784.0,0.0,,0.0,debt consolidation,Short Term,161304.0,89566.0,12264.0,743.0,0
+1046,Home Mortgage,,8 years,0.0,9.0,27.1,409662.0,0.0,,0.0,debt consolidation,Short Term,258676.0,345667.0,15340.0,,0
+1928,Home Mortgage,1148208.0,,2.0,8.0,22.0,489896.0,2.0,78.0,0.0,debt consolidation,Long Term,531806.0,247513.0,22582.0,737.0,0
+6291,Home Mortgage,1128942.0,10+ years,0.0,13.0,11.1,300828.0,1.0,16.0,1.0,debt consolidation,Short Term,267982.0,83923.0,18157.0,729.0,1
+1643,Rent,,9 years,0.0,3.0,10.0,0.0,0.0,,0.0,other,Short Term,332156.0,0.0,0.0,,1
+2481,Rent,1479834.0,3 years,0.0,14.0,18.8,406824.0,0.0,,0.0,debt consolidation,Short Term,296384.0,4218.0,26279.0,745.0,0
+800,Home Mortgage,,7 years,0.0,15.0,24.5,1126708.0,0.0,,0.0,debt consolidation,Short Term,519024.0,871872.0,38328.0,,0
+957,Rent,,9 years,0.0,18.0,15.0,660440.0,0.0,,0.0,debt consolidation,Short Term,346236.0,399836.0,23890.0,,1
+5610,Home Mortgage,1146612.0,5 years,0.0,14.0,7.4,427284.0,0.0,33.0,0.0,debt consolidation,Long Term,331914.0,251294.0,25703.0,669.0,0
+4844,Rent,632643.0,< 1 year,0.0,13.0,16.4,208890.0,0.0,,0.0,debt consolidation,Short Term,66594.0,85861.0,14762.0,737.0,1
+4407,Home Mortgage,1224873.0,2 years,0.0,8.0,11.3,294734.0,0.0,,0.0,home improvements,Short Term,327294.0,127775.0,19190.0,738.0,0
+7227,Rent,583167.0,10+ years,0.0,4.0,15.1,227326.0,0.0,,0.0,other,Short Term,90024.0,151753.0,4860.0,692.0,0
+1352,Home Mortgage,3230969.0,5 years,0.0,9.0,9.5,252780.0,0.0,20.0,0.0,debt consolidation,Short Term,220066.0,82517.0,37156.0,698.0,1
+263,Home Mortgage,1910678.0,10+ years,0.0,13.0,19.4,351208.0,0.0,39.0,0.0,buy a car,Short Term,173514.0,209893.0,24839.0,7470.0,1
+1022,Home Mortgage,1781060.0,10+ years,0.0,13.0,15.9,385594.0,0.0,34.0,0.0,debt consolidation,Short Term,222948.0,297046.0,33840.0,741.0,0
+3765,Rent,,2 years,0.0,7.0,10.2,230714.0,0.0,24.0,0.0,debt consolidation,Short Term,215094.0,84493.0,5346.0,,1
+6599,Own Home,,,0.0,4.0,8.2,54032.0,1.0,,1.0,home improvements,Short Term,253396.0,36499.0,15546.0,,1
+1320,Own Home,800280.0,,0.0,10.0,35.7,1422498.0,0.0,,0.0,debt consolidation,Short Term,425744.0,637602.0,16739.0,740.0,0
+4420,Rent,349220.0,10+ years,0.0,5.0,15.4,101156.0,0.0,,0.0,small business,Short Term,40436.0,34770.0,6926.0,750.0,0
+5337,Home Mortgage,1328803.0,3 years,0.0,6.0,23.4,124718.0,0.0,37.0,0.0,debt consolidation,Long Term,534182.0,57722.0,25136.0,702.0,1
+5668,Rent,1867966.0,10+ years,0.0,13.0,14.5,563574.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,234593.0,23349.0,745.0,0
+3033,Rent,1153338.0,< 1 year,0.0,11.0,15.4,547316.0,1.0,,1.0,debt consolidation,Long Term,353056.0,228779.0,26911.0,676.0,0
+856,Home Mortgage,1019749.0,< 1 year,0.0,19.0,15.5,203588.0,0.0,21.0,0.0,debt consolidation,Short Term,99999999.0,47481.0,7597.0,738.0,0
+642,Rent,891119.0,3 years,0.0,9.0,23.8,717420.0,0.0,42.0,0.0,debt consolidation,Short Term,332222.0,293683.0,11733.0,746.0,0
+6953,Rent,,3 years,0.0,11.0,13.8,361460.0,1.0,,1.0,debt consolidation,Short Term,173646.0,159201.0,14818.0,,1
+3337,Home Mortgage,,10+ years,0.0,9.0,33.8,1080794.0,0.0,19.0,0.0,debt consolidation,Long Term,330330.0,214681.0,4928.0,,1
+4220,Rent,1852690.0,10+ years,0.0,7.0,16.1,267960.0,0.0,14.0,0.0,debt consolidation,Short Term,386144.0,160151.0,23622.0,740.0,1
+2273,Home Mortgage,783712.0,10+ years,0.0,11.0,38.8,454586.0,0.0,6.0,0.0,debt consolidation,Short Term,99999999.0,268147.0,12278.0,734.0,0
+3258,Home Mortgage,1469555.0,6 years,0.0,12.0,9.1,584276.0,0.0,,0.0,debt consolidation,Short Term,335852.0,438482.0,22778.0,710.0,0
+6988,Home Mortgage,2848575.0,10+ years,0.0,10.0,19.8,1560702.0,0.0,,0.0,debt consolidation,Short Term,219890.0,800641.0,37506.0,747.0,1
+4622,Home Mortgage,1683837.0,2 years,0.0,14.0,13.7,776182.0,0.0,,0.0,debt consolidation,Short Term,54164.0,215840.0,46867.0,748.0,0
+2646,Own Home,1449377.0,,0.0,13.0,36.2,2232208.0,0.0,,0.0,other,Short Term,352418.0,589912.0,22103.0,748.0,1
+6125,Home Mortgage,1719063.0,< 1 year,0.0,11.0,18.0,236786.0,0.0,,0.0,debt consolidation,Long Term,340604.0,157662.0,10386.0,710.0,0
+1765,Home Mortgage,,2 years,0.0,16.0,10.7,809050.0,0.0,,0.0,debt consolidation,Short Term,153560.0,299744.0,13630.0,,0
+1168,Rent,595118.0,3 years,0.0,9.0,19.2,109890.0,0.0,,0.0,business loan,Short Term,93676.0,45942.0,4711.0,6990.0,1
+1128,Rent,1243778.0,2 years,0.0,13.0,16.0,830698.0,1.0,68.0,0.0,debt consolidation,Long Term,99999999.0,448381.0,17102.0,683.0,0
+3312,Rent,771856.0,5 years,0.0,12.0,14.6,1705858.0,0.0,,0.0,debt consolidation,Long Term,393800.0,499434.0,14665.0,715.0,0
+1097,Rent,967670.0,7 years,0.0,16.0,12.5,782562.0,0.0,77.0,0.0,debt consolidation,Short Term,125488.0,214244.0,7475.0,739.0,0
+7330,Rent,932995.0,7 years,0.0,12.0,12.8,308858.0,0.0,38.0,0.0,debt consolidation,Short Term,99999999.0,161918.0,12984.0,726.0,0
+3442,Home Mortgage,1334351.0,3 years,0.0,8.0,28.0,1757558.0,0.0,,0.0,other,Short Term,99999999.0,347605.0,20816.0,751.0,0
+3914,Rent,939835.0,3 years,0.0,13.0,5.6,376002.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,95475.0,15742.0,732.0,0
+2955,Rent,472587.0,,1.0,11.0,14.1,414018.0,1.0,,0.0,debt consolidation,Short Term,131318.0,197372.0,7640.0,727.0,1
+6482,Rent,1969198.0,2 years,0.0,13.0,17.4,687896.0,0.0,57.0,0.0,debt consolidation,Short Term,268246.0,295868.0,28061.0,738.0,0
+5970,Rent,1115965.0,3 years,0.0,15.0,28.1,697312.0,0.0,,0.0,debt consolidation,Short Term,262812.0,115615.0,28085.0,748.0,0
+3050,Home Mortgage,,1 year,0.0,9.0,26.5,968396.0,0.0,44.0,0.0,home improvements,Long Term,463474.0,375516.0,28019.0,,0
+6789,Rent,1376455.0,10+ years,0.0,11.0,5.5,1121032.0,0.0,,0.0,debt consolidation,Long Term,259270.0,251731.0,36017.0,684.0,1
+6099,Rent,1167474.0,3 years,0.0,5.0,17.1,1251272.0,0.0,,0.0,business loan,Short Term,99999999.0,28101.0,3425.0,748.0,0
+4871,Rent,565326.0,1 year,0.0,5.0,14.6,307824.0,0.0,,0.0,debt consolidation,Short Term,225830.0,155249.0,8103.0,746.0,1
+1886,Own Home,1243531.0,9 years,0.0,8.0,15.5,133012.0,0.0,12.0,0.0,debt consolidation,Short Term,221518.0,64106.0,13368.0,706.0,1
+3671,Rent,722779.0,5 years,0.0,6.0,13.9,768900.0,0.0,,0.0,debt consolidation,Short Term,257510.0,357257.0,9818.0,751.0,0
+737,Own Home,1869980.0,10+ years,0.0,10.0,23.8,407044.0,0.0,36.0,0.0,debt consolidation,Short Term,142912.0,124450.0,16362.0,750.0,0
+6611,Rent,670738.0,10+ years,0.0,10.0,18.3,411818.0,0.0,38.0,0.0,debt consolidation,Short Term,107866.0,220153.0,15203.0,7390.0,1
+6808,Rent,593446.0,10+ years,0.0,4.0,13.4,238590.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,152893.0,10633.0,680.0,0
+1142,Rent,1640042.0,6 years,0.0,10.0,6.6,690250.0,0.0,,0.0,debt consolidation,Long Term,536184.0,481061.0,32664.0,7120.0,1
+6534,Home Mortgage,1120848.0,< 1 year,0.0,12.0,22.8,1538306.0,0.0,,0.0,debt consolidation,Long Term,475860.0,519460.0,4558.0,725.0,0
+7296,Home Mortgage,592325.0,< 1 year,0.0,20.0,11.1,804958.0,0.0,38.0,0.0,small business,Short Term,104412.0,283632.0,9033.0,682.0,1
+5386,Rent,,10+ years,0.0,9.0,24.6,793826.0,0.0,13.0,0.0,debt consolidation,Short Term,438592.0,624549.0,20833.0,,1
+79,Rent,985815.0,8 years,0.0,11.0,18.1,227876.0,3.0,51.0,3.0,debt consolidation,Short Term,108504.0,104899.0,10351.0,729.0,1
+3950,Rent,913216.0,5 years,0.0,4.0,14.9,86328.0,0.0,,0.0,debt consolidation,Short Term,159698.0,72390.0,20243.0,7220.0,1
+6400,Own Home,965770.0,10+ years,0.0,16.0,19.2,1119008.0,0.0,,0.0,debt consolidation,Short Term,402578.0,351766.0,9738.0,744.0,0
+3539,Rent,,< 1 year,0.0,13.0,15.8,0.0,2.0,41.0,0.0,vacation,Short Term,134354.0,0.0,6130.0,,0
+2446,Home Mortgage,,5 years,0.0,5.0,20.1,0.0,1.0,,0.0,debt consolidation,Long Term,460394.0,0.0,11469.0,,1
+544,Home Mortgage,,2 years,0.0,15.0,22.5,0.0,0.0,,0.0,other,Short Term,396594.0,0.0,22556.0,,0
+3684,Own Home,,8 years,0.0,9.0,19.0,752400.0,0.0,,0.0,debt consolidation,Short Term,84150.0,160512.0,5202.0,,0
+1075,Rent,773300.0,3 years,0.0,7.0,28.1,170214.0,0.0,,0.0,debt consolidation,Short Term,44770.0,129067.0,12102.0,740.0,0
+6381,Home Mortgage,1377576.0,10+ years,0.0,12.0,30.4,341594.0,0.0,23.0,0.0,debt consolidation,Long Term,553850.0,81719.0,22730.0,715.0,0
+1042,Rent,,< 1 year,0.0,13.0,13.1,1656952.0,0.0,,0.0,debt consolidation,Short Term,350372.0,868623.0,24382.0,,0
+230,Rent,835601.0,2 years,0.0,7.0,11.8,96800.0,0.0,48.0,0.0,debt consolidation,Short Term,51612.0,74233.0,5146.0,715.0,0
+1412,Home Mortgage,1818452.0,10+ years,0.0,13.0,17.3,549318.0,0.0,34.0,0.0,debt consolidation,Short Term,277002.0,283689.0,44249.0,741.0,0
+1694,Rent,,2 years,0.0,19.0,19.4,187198.0,0.0,65.0,0.0,debt consolidation,Short Term,69960.0,142120.0,13896.0,,0
+6778,Own Home,733742.0,10+ years,0.0,15.0,30.5,651420.0,0.0,,0.0,debt consolidation,Long Term,372504.0,532760.0,15531.0,683.0,0
+6474,Home Mortgage,1382326.0,5 years,0.0,13.0,20.5,1479060.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,169898.0,16357.0,750.0,0
+6356,Rent,1140570.0,2 years,0.0,15.0,25.7,294976.0,0.0,14.0,0.0,debt consolidation,Short Term,100452.0,105982.0,15588.0,719.0,0
+5474,Rent,835430.0,7 years,0.0,8.0,13.4,221430.0,0.0,,0.0,debt consolidation,Long Term,214962.0,147839.0,10304.0,678.0,0
+866,Home Mortgage,,,0.0,7.0,17.5,312818.0,0.0,26.0,0.0,debt consolidation,Short Term,368016.0,195871.0,13860.0,,0
+773,Home Mortgage,610679.0,1 year,0.0,16.0,20.0,294030.0,0.0,9.0,0.0,home improvements,Short Term,145838.0,115292.0,9160.0,738.0,1
+6264,Home Mortgage,1763466.0,6 years,0.0,9.0,14.0,690140.0,0.0,,0.0,debt consolidation,Long Term,609400.0,520334.0,26599.0,691.0,0
+4310,Home Mortgage,451117.0,2 years,0.0,9.0,14.8,226226.0,0.0,26.0,0.0,debt consolidation,Short Term,76186.0,99636.0,3741.0,705.0,1
+3755,Rent,,10+ years,0.0,4.0,10.1,144144.0,0.0,11.0,0.0,debt consolidation,Short Term,202114.0,98230.0,3342.0,,0
+5317,Have Mortgage,980685.0,10+ years,0.0,12.0,36.5,260392.0,2.0,40.0,1.0,take a trip,Short Term,21846.0,68362.0,24109.0,721.0,0
+4741,Rent,1271347.0,,0.0,16.0,20.0,425634.0,1.0,,1.0,debt consolidation,Short Term,197736.0,264670.0,18858.0,717.0,0
+4756,Rent,934135.0,4 years,0.0,16.0,16.0,499620.0,0.0,50.0,0.0,debt consolidation,Short Term,324500.0,220058.0,14557.0,736.0,0
+6127,Home Mortgage,811091.0,10+ years,0.0,9.0,12.0,503514.0,0.0,22.0,0.0,debt consolidation,Short Term,281754.0,262656.0,7976.0,6940.0,1
+4055,Rent,1586899.0,10+ years,0.0,14.0,17.3,745272.0,0.0,,0.0,debt consolidation,Long Term,540430.0,449920.0,25258.0,654.0,0
+3322,Rent,948385.0,8 years,0.0,9.0,19.8,638726.0,0.0,,0.0,debt consolidation,Short Term,219076.0,310004.0,17071.0,704.0,0
+3035,Rent,941925.0,2 years,0.0,10.0,11.9,891880.0,0.0,9.0,0.0,debt consolidation,Short Term,99999999.0,461396.0,16876.0,739.0,0
+5613,Home Mortgage,1284780.0,10+ years,0.0,6.0,13.1,781616.0,0.0,,0.0,debt consolidation,Long Term,450076.0,250439.0,18415.0,731.0,1
+5030,Rent,1646977.0,2 years,0.0,9.0,18.5,291742.0,0.0,,0.0,debt consolidation,Long Term,403832.0,239875.0,10060.0,650.0,0
+509,Rent,2015672.0,1 year,0.0,8.0,24.0,242088.0,0.0,,0.0,debt consolidation,Short Term,82126.0,157016.0,23180.0,717.0,0
+2412,Home Mortgage,,8 years,0.0,15.0,13.9,956296.0,0.0,,0.0,debt consolidation,Short Term,445632.0,326230.0,27325.0,,0
+4472,Home Mortgage,,6 years,1.0,9.0,27.4,301268.0,2.0,,1.0,debt consolidation,Short Term,108152.0,83258.0,16875.0,,0
+6131,Home Mortgage,1986032.0,6 years,0.0,16.0,16.0,1071202.0,0.0,,0.0,other,Short Term,219010.0,517142.0,43030.0,746.0,1
+1047,Rent,,,0.0,12.0,12.2,499466.0,0.0,59.0,0.0,debt consolidation,Short Term,409134.0,345952.0,16211.0,,1
+177,Home Mortgage,,10+ years,0.0,16.0,24.5,824428.0,0.0,,0.0,debt consolidation,Short Term,264264.0,317566.0,25942.0,,0
+3908,Home Mortgage,996588.0,< 1 year,0.0,7.0,20.6,701800.0,0.0,,0.0,debt consolidation,Long Term,401104.0,326097.0,11959.0,726.0,1
+3049,Own Home,1076179.0,6 years,0.0,11.0,15.6,741554.0,0.0,24.0,0.0,home improvements,Short Term,327932.0,306128.0,16412.0,7370.0,1
+2615,Rent,1229319.0,4 years,0.0,7.0,31.7,266992.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,89927.0,5942.0,727.0,0
+828,Rent,1318828.0,2 years,0.0,10.0,13.6,305580.0,0.0,,0.0,take a trip,Long Term,99999999.0,52250.0,11199.0,685.0,0
+1535,Rent,,10+ years,0.0,8.0,17.4,347666.0,0.0,42.0,0.0,debt consolidation,Short Term,133804.0,82574.0,17575.0,,1
+1760,Home Mortgage,,5 years,0.0,11.0,16.3,656590.0,0.0,29.0,0.0,home improvements,Short Term,65516.0,79382.0,26872.0,,0
+3011,Rent,1067686.0,2 years,0.0,5.0,11.2,60698.0,0.0,47.0,0.0,other,Short Term,53944.0,33858.0,5961.0,682.0,1
+711,Rent,2332440.0,9 years,0.0,3.0,13.8,1462076.0,0.0,,0.0,debt consolidation,Long Term,486134.0,558106.0,14131.0,689.0,0
+4697,Home Mortgage,1374099.0,4 years,0.0,20.0,17.5,802516.0,0.0,,0.0,home improvements,Short Term,246510.0,379810.0,25237.0,724.0,0
+6298,Home Mortgage,1365359.0,10+ years,0.0,11.0,14.5,580470.0,0.0,,0.0,debt consolidation,Short Term,137522.0,409070.0,26966.0,730.0,1
+2272,Rent,,5 years,0.0,11.0,15.8,557436.0,0.0,,0.0,debt consolidation,Short Term,258236.0,325926.0,18375.0,,0
+4960,Home Mortgage,2336316.0,10+ years,0.0,12.0,24.0,577522.0,0.0,39.0,0.0,debt consolidation,Long Term,789030.0,416461.0,16082.0,622.0,0
+6260,Rent,,5 years,0.0,23.0,21.6,513964.0,0.0,45.0,0.0,other,Short Term,139260.0,249907.0,27819.0,,0
+1330,Own Home,,10+ years,0.0,5.0,16.2,359722.0,0.0,,0.0,home improvements,Short Term,153538.0,1558.0,8145.0,,0
+4733,Home Mortgage,954275.0,2 years,0.0,5.0,13.2,780384.0,0.0,,0.0,debt consolidation,Short Term,173316.0,327541.0,6457.0,744.0,0
+6581,Rent,,9 years,0.0,9.0,22.0,751036.0,0.0,,0.0,debt consolidation,Long Term,301378.0,343121.0,8521.0,,0
+1221,Home Mortgage,1053474.0,3 years,0.0,7.0,11.0,502128.0,0.0,35.0,0.0,debt consolidation,Short Term,435798.0,72428.0,4995.0,744.0,0
+6666,Home Mortgage,1026190.0,10+ years,0.0,11.0,14.1,742302.0,0.0,,0.0,debt consolidation,Short Term,120978.0,150005.0,22234.0,748.0,0
+1616,Home Mortgage,7907382.0,10+ years,1.0,8.0,26.0,1372536.0,1.0,,0.0,home improvements,Long Term,763004.0,736117.0,25831.0,732.0,0
+6194,Rent,931380.0,9 years,0.0,8.0,23.3,655314.0,0.0,12.0,0.0,debt consolidation,Short Term,366674.0,256956.0,26079.0,695.0,0
+4482,Rent,810084.0,2 years,0.0,8.0,23.5,708862.0,0.0,,0.0,debt consolidation,Short Term,110352.0,509352.0,11267.0,737.0,0
+5002,Rent,976068.0,2 years,0.0,5.0,7.3,33242.0,0.0,17.0,0.0,other,Short Term,84766.0,57.0,57.0,7280.0,1
+1563,Rent,1412327.0,2 years,0.0,19.0,17.9,1270588.0,1.0,32.0,1.0,debt consolidation,Short Term,99999999.0,389557.0,31424.0,738.0,0
+2083,Home Mortgage,1640517.0,10+ years,0.0,11.0,19.2,571846.0,0.0,74.0,0.0,debt consolidation,Long Term,446952.0,343729.0,26112.0,731.0,0
+5655,Home Mortgage,1587374.0,6 years,0.0,8.0,10.2,877206.0,0.0,,0.0,debt consolidation,Short Term,336974.0,518187.0,20371.0,743.0,1
+6976,Rent,,4 years,0.0,12.0,9.9,641366.0,0.0,,0.0,debt consolidation,Short Term,142824.0,180025.0,13714.0,,0
+7027,Home Mortgage,1308853.0,2 years,0.0,12.0,17.5,809600.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,563559.0,16906.0,747.0,0
+332,Rent,732906.0,10+ years,0.0,11.0,23.5,509124.0,0.0,,0.0,debt consolidation,Long Term,334994.0,193458.0,11055.0,717.0,0
+1055,Home Mortgage,1616292.0,2 years,0.0,6.0,20.9,187110.0,0.0,,0.0,home improvements,Short Term,99999999.0,80142.0,15220.0,750.0,0
+2473,Home Mortgage,1872260.0,5 years,0.0,6.0,18.7,333256.0,0.0,50.0,0.0,home improvements,Short Term,99999999.0,12369.0,12669.0,735.0,0
+6459,Rent,2618618.0,10+ years,0.0,7.0,28.7,727958.0,0.0,34.0,0.0,debt consolidation,Short Term,336908.0,459572.0,32951.0,741.0,1
+6687,Rent,554363.0,10+ years,0.0,7.0,27.8,159500.0,0.0,57.0,0.0,business loan,Short Term,59752.0,67640.0,11503.0,6880.0,1
+3153,Home Mortgage,,10+ years,0.0,20.0,17.1,866096.0,0.0,30.0,0.0,debt consolidation,Long Term,609466.0,677692.0,40417.0,,0
+5303,Home Mortgage,1650055.0,10+ years,0.0,9.0,18.6,1574078.0,0.0,,0.0,debt consolidation,Long Term,472032.0,604941.0,34788.0,708.0,0
+6468,Rent,1766468.0,1 year,0.0,7.0,16.1,606914.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,368467.0,15898.0,748.0,0
+2981,Home Mortgage,,7 years,0.0,15.0,12.9,237402.0,0.0,,0.0,other,Short Term,112530.0,79743.0,5828.0,,1
+2471,Rent,,10+ years,0.0,13.0,22.9,1217414.0,0.0,,0.0,other,Long Term,401588.0,816943.0,32370.0,,1
+2441,Rent,309282.0,3 years,0.0,6.0,12.0,354948.0,0.0,,0.0,debt consolidation,Short Term,85514.0,231743.0,5413.0,686.0,0
+41,Rent,1350349.0,10+ years,0.0,20.0,15.0,763422.0,0.0,10.0,0.0,debt consolidation,Short Term,241230.0,306584.0,9014.0,721.0,0
+1317,Home Mortgage,1883660.0,10+ years,0.0,14.0,16.2,693528.0,0.0,17.0,0.0,debt consolidation,Long Term,763378.0,574978.0,37516.0,686.0,0
+503,Home Mortgage,906737.0,10+ years,0.0,16.0,26.0,700150.0,1.0,51.0,1.0,debt consolidation,Long Term,450912.0,151164.0,13752.0,685.0,0
+5639,Rent,1614563.0,10+ years,0.0,14.0,29.8,1199088.0,0.0,42.0,0.0,debt consolidation,Long Term,326084.0,517788.0,11060.0,741.0,0
+6364,Own Home,2270652.0,10+ years,0.0,11.0,29.7,440616.0,0.0,2.0,0.0,debt consolidation,Short Term,99999999.0,130910.0,25734.0,736.0,0
+1632,Rent,863949.0,9 years,0.0,12.0,16.5,696586.0,0.0,16.0,0.0,debt consolidation,Short Term,65252.0,39102.0,2592.0,737.0,0
+217,Home Mortgage,1733674.0,10+ years,0.0,19.0,22.4,2847174.0,1.0,,1.0,debt consolidation,Short Term,715682.0,287698.0,33084.0,7040.0,1
+185,Home Mortgage,2010960.0,10+ years,1.0,7.0,23.4,180488.0,1.0,40.0,0.0,home improvements,Short Term,646800.0,13870.0,17763.0,743.0,0
+5682,Own Home,1531704.0,10+ years,0.0,7.0,16.2,386012.0,1.0,,1.0,debt consolidation,Short Term,354706.0,223364.0,7952.0,737.0,0
+2678,Home Mortgage,,2 years,0.0,19.0,12.0,476476.0,0.0,,0.0,debt consolidation,Short Term,258896.0,380228.0,24004.0,,0
+5255,Rent,954180.0,9 years,0.0,12.0,24.1,290972.0,0.0,,0.0,debt consolidation,Long Term,99999999.0,218880.0,20674.0,710.0,0
+3615,Home Mortgage,712823.0,9 years,0.0,13.0,15.7,466136.0,0.0,53.0,0.0,debt consolidation,Short Term,205260.0,67222.0,13306.0,732.0,1
+7468,Home Mortgage,3084840.0,5 years,0.0,10.0,18.9,998910.0,0.0,,0.0,debt consolidation,Long Term,519552.0,138890.0,4859.0,746.0,0
+6246,Rent,670130.0,,0.0,7.0,16.5,358754.0,1.0,,1.0,debt consolidation,Short Term,221694.0,85196.0,3217.0,739.0,0
+4701,Home Mortgage,1311114.0,7 years,0.0,22.0,13.6,409420.0,0.0,,0.0,debt consolidation,Long Term,390368.0,191995.0,33761.0,738.0,1
+87,Home Mortgage,1533566.0,7 years,0.0,11.0,14.8,715462.0,0.0,19.0,0.0,debt consolidation,Short Term,210826.0,285475.0,18147.0,7440.0,1
+1926,Rent,1161109.0,10+ years,0.0,15.0,19.6,398992.0,1.0,63.0,1.0,debt consolidation,Short Term,260590.0,108889.0,29125.0,736.0,0
+4677,Rent,2250949.0,10+ years,0.0,11.0,33.6,441760.0,0.0,18.0,0.0,debt consolidation,Long Term,280016.0,101099.0,25511.0,728.0,1
+3034,Rent,1200781.0,6 years,0.0,6.0,25.1,187242.0,0.0,74.0,0.0,other,Long Term,549120.0,22477.0,6164.0,716.0,1
+2510,Rent,1207887.0,10+ years,0.0,8.0,17.1,532906.0,0.0,,0.0,debt consolidation,Short Term,623832.0,378328.0,17011.0,727.0,1
+3245,Rent,748220.0,10+ years,0.0,15.0,20.0,515438.0,0.0,5.0,0.0,debt consolidation,Short Term,64988.0,271548.0,20638.0,7190.0,1
+2513,Home Mortgage,1716498.0,7 years,0.0,15.0,16.2,489830.0,0.0,53.0,0.0,debt consolidation,Long Term,530002.0,217018.0,26749.0,686.0,0
+5460,Home Mortgage,582882.0,10+ years,0.0,17.0,48.6,449900.0,1.0,,1.0,other,Short Term,224972.0,158517.0,12678.0,721.0,0
+6638,Home Mortgage,1107966.0,,0.0,14.0,38.1,2122648.0,0.0,70.0,0.0,debt consolidation,Short Term,162162.0,131993.0,7977.0,750.0,0
+2127,Rent,,3 years,0.0,8.0,10.0,315238.0,0.0,,0.0,debt consolidation,Short Term,249986.0,257564.0,15745.0,,0
+1916,Home Mortgage,1879860.0,10+ years,0.0,9.0,12.9,274648.0,0.0,,0.0,debt consolidation,Short Term,353936.0,189753.0,25065.0,746.0,0
+5416,Rent,1887175.0,10+ years,0.0,10.0,18.5,978802.0,0.0,20.0,0.0,debt consolidation,Short Term,99999999.0,581590.0,24690.0,745.0,0
+5633,Rent,559512.0,,0.0,9.0,15.5,155496.0,0.0,,0.0,debt consolidation,Short Term,64790.0,126483.0,4849.0,710.0,0
+742,Rent,1212276.0,2 years,0.0,9.0,15.0,520652.0,0.0,37.0,0.0,debt consolidation,Long Term,401676.0,281941.0,28792.0,689.0,1
+6559,Home Mortgage,1516523.0,4 years,0.0,24.0,17.3,200398.0,1.0,6.0,1.0,debt consolidation,Long Term,414788.0,49495.0,11829.0,690.0,0
+1992,Own Home,1443240.0,10+ years,0.0,6.0,10.4,400796.0,0.0,,0.0,business loan,Long Term,523622.0,197999.0,3608.0,644.0,1
+7380,Rent,,10+ years,0.0,8.0,20.5,721930.0,0.0,77.0,0.0,debt consolidation,Short Term,499950.0,404643.0,13356.0,,0
+4149,Home Mortgage,1222156.0,8 years,0.0,17.0,12.5,814946.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,289978.0,23628.0,745.0,0
+5384,Home Mortgage,2781885.0,10+ years,0.0,14.0,18.0,1766688.0,0.0,,0.0,debt consolidation,Short Term,751608.0,96121.0,33614.0,746.0,0
+2921,Home Mortgage,928530.0,8 years,0.0,6.0,13.8,494450.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,258780.0,8357.0,744.0,0
+1669,Rent,1652753.0,10+ years,0.0,10.0,21.5,919358.0,0.0,,0.0,debt consolidation,Short Term,345972.0,661390.0,24240.0,746.0,0
+4043,Rent,981407.0,4 years,0.0,8.0,10.1,215160.0,0.0,55.0,0.0,debt consolidation,Long Term,308198.0,65968.0,11941.0,639.0,1
+3053,Home Mortgage,1852082.0,3 years,0.0,17.0,12.1,699204.0,2.0,44.0,1.0,debt consolidation,Long Term,379764.0,267520.0,33029.0,654.0,1
+2439,Home Mortgage,833074.0,4 years,0.0,6.0,12.0,295966.0,0.0,36.0,0.0,debt consolidation,Long Term,241164.0,122683.0,7081.0,676.0,1
+233,Home Mortgage,1159152.0,1 year,0.0,14.0,18.5,651310.0,0.0,,0.0,debt consolidation,Short Term,322124.0,473632.0,23570.0,730.0,0
+6965,Rent,472492.0,7 years,0.0,7.0,12.1,129448.0,0.0,5.0,0.0,business loan,Long Term,219934.0,21128.0,6312.0,700.0,1
+932,Rent,865868.0,< 1 year,0.0,17.0,8.5,227084.0,0.0,38.0,0.0,debt consolidation,Short Term,155958.0,123956.0,13565.0,728.0,0
+2903,Rent,891841.0,10+ years,0.0,16.0,25.7,569822.0,0.0,,0.0,debt consolidation,Short Term,182336.0,273125.0,13378.0,705.0,0
+2111,Rent,1158696.0,3 years,0.0,16.0,16.5,1263284.0,0.0,8.0,0.0,other,Long Term,177936.0,328396.0,21243.0,662.0,0
+1880,Home Mortgage,1667535.0,5 years,0.0,15.0,17.5,2580226.0,0.0,68.0,0.0,debt consolidation,Short Term,263890.0,249584.0,11562.0,750.0,0
+2620,Home Mortgage,,7 years,0.0,11.0,11.0,184206.0,0.0,11.0,0.0,debt consolidation,Short Term,199892.0,91314.0,31062.0,,0
+2929,Rent,725686.0,8 years,0.0,13.0,10.9,338294.0,0.0,,0.0,debt consolidation,Short Term,242132.0,174724.0,11611.0,723.0,1
+1451,Home Mortgage,1376341.0,10+ years,0.0,8.0,19.0,890956.0,0.0,,0.0,debt consolidation,Short Term,401192.0,574009.0,24889.0,748.0,0
+4198,Home Mortgage,1908550.0,< 1 year,0.0,20.0,32.5,811646.0,1.0,,1.0,home improvements,Short Term,119328.0,621775.0,22744.0,729.0,0
+2189,Home Mortgage,1038920.0,,0.0,16.0,14.8,664444.0,0.0,,0.0,buy house,Short Term,99999999.0,197391.0,13220.0,745.0,0
+1720,Rent,1841499.0,10+ years,0.0,10.0,22.5,266926.0,0.0,17.0,0.0,debt consolidation,Short Term,99999999.0,146604.0,33147.0,729.0,0
+2850,Own Home,,1 year,0.0,11.0,19.0,4309294.0,0.0,12.0,0.0,debt consolidation,Short Term,302764.0,1857117.0,45198.0,,1
+4237,Home Mortgage,1904560.0,3 years,0.0,11.0,11.9,780956.0,0.0,,0.0,major purchase,Long Term,771848.0,127471.0,7809.0,646.0,0
+7347,Rent,,5 years,0.0,6.0,11.0,237776.0,0.0,,0.0,other,Short Term,217272.0,7391.0,7114.0,,0
+3308,Home Mortgage,1067572.0,1 year,0.0,11.0,8.9,545930.0,0.0,,0.0,home improvements,Short Term,449504.0,310232.0,8621.0,713.0,0
+69,Home Mortgage,1408527.0,2 years,0.0,12.0,17.5,700062.0,0.0,21.0,0.0,other,Long Term,525998.0,174135.0,9320.0,6470.0,1
+2447,Rent,2991968.0,< 1 year,0.0,17.0,12.8,942678.0,0.0,,0.0,debt consolidation,Short Term,433048.0,415207.0,38148.0,749.0,0
+3524,Home Mortgage,864120.0,10+ years,0.0,7.0,22.5,367004.0,0.0,38.0,0.0,debt consolidation,Long Term,450296.0,59280.0,18579.0,739.0,1
+1940,Rent,951330.0,4 years,0.0,6.0,17.0,176330.0,0.0,,0.0,other,Short Term,139898.0,41876.0,2838.0,738.0,1
+3105,Rent,1161432.0,10+ years,0.0,13.0,17.3,354090.0,0.0,53.0,0.0,debt consolidation,Short Term,224136.0,224162.0,21196.0,725.0,0
+789,Rent,1298973.0,10+ years,0.0,10.0,17.1,199210.0,1.0,,1.0,debt consolidation,Short Term,221188.0,116470.0,20242.0,729.0,0
+5636,Home Mortgage,2331528.0,4 years,0.0,15.0,49.1,710050.0,0.0,,0.0,home improvements,Short Term,562430.0,193173.0,26813.0,749.0,0
+381,Own Home,1890500.0,2 years,0.0,5.0,22.0,205876.0,0.0,,0.0,debt consolidation,Long Term,262680.0,160721.0,11170.0,689.0,0
+3580,Rent,785099.0,3 years,0.0,7.0,10.7,374572.0,0.0,,0.0,debt consolidation,Short Term,401896.0,280155.0,15571.0,7370.0,1
+3813,Rent,,1 year,0.0,11.0,13.6,293106.0,1.0,2.0,1.0,other,Short Term,158708.0,16967.0,15006.0,,1
+6270,Rent,,1 year,0.0,15.0,11.7,351824.0,0.0,,0.0,debt consolidation,Short Term,180730.0,203281.0,8906.0,,0
+7392,Home Mortgage,988988.0,8 years,0.0,11.0,14.0,336974.0,0.0,,0.0,debt consolidation,Short Term,396396.0,271814.0,12857.0,742.0,1
+4581,Home Mortgage,,2 years,0.0,3.0,14.2,210606.0,0.0,32.0,0.0,debt consolidation,Short Term,310376.0,120783.0,7240.0,,0
+496,Home Mortgage,1137568.0,,0.0,16.0,32.0,1220494.0,0.0,,0.0,debt consolidation,Short Term,550660.0,666178.0,35454.0,722.0,1
+6825,Rent,760228.0,4 years,0.0,9.0,10.6,336182.0,0.0,,0.0,debt consolidation,Long Term,110044.0,63004.0,9180.0,7250.0,1
+2440,Own Home,1527752.0,4 years,0.0,14.0,26.7,329274.0,1.0,54.0,1.0,debt consolidation,Short Term,179652.0,99541.0,12222.0,720.0,0
+3896,Own Home,2329875.0,7 years,0.0,4.0,16.2,107580.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,89015.0,15765.0,739.0,0
+908,Own Home,1012054.0,10+ years,0.0,17.0,19.8,460218.0,1.0,,1.0,home improvements,Short Term,151910.0,86241.0,21084.0,722.0,1
+1174,Home Mortgage,1046425.0,1 year,0.0,11.0,11.3,749210.0,0.0,,0.0,debt consolidation,Long Term,527296.0,505343.0,12034.0,713.0,0
+1163,Home Mortgage,4523064.0,3 years,0.0,6.0,14.2,0.0,0.0,38.0,0.0,home improvements,Long Term,392788.0,0.0,19902.0,690.0,0
+6074,Own Home,784320.0,3 years,0.0,12.0,15.6,634370.0,0.0,39.0,0.0,debt consolidation,Long Term,99999999.0,237215.0,4458.0,737.0,0
+19,Rent,1020072.0,2 years,0.0,6.0,12.5,199078.0,0.0,,0.0,debt consolidation,Short Term,309672.0,120517.0,14451.0,712.0,1
+7488,Rent,465405.0,5 years,0.0,5.0,7.7,51744.0,0.0,33.0,0.0,home improvements,Short Term,129338.0,8721.0,13535.0,728.0,0
+1652,Home Mortgage,454727.0,10+ years,0.0,3.0,22.0,116336.0,0.0,13.0,0.0,debt consolidation,Short Term,131626.0,73245.0,2122.0,745.0,1
+5378,Home Mortgage,1598052.0,10+ years,0.0,17.0,20.6,2422068.0,0.0,,0.0,debt consolidation,Long Term,435380.0,1020794.0,31029.0,745.0,0
+3649,Rent,779741.0,4 years,0.0,14.0,10.9,390302.0,0.0,66.0,0.0,debt consolidation,Short Term,154946.0,86298.0,20338.0,743.0,0
+3767,Home Mortgage,,10+ years,0.0,17.0,21.0,411884.0,1.0,74.0,1.0,other,Short Term,174438.0,139441.0,14655.0,,0
+3265,Own Home,741646.0,7 years,0.0,15.0,12.9,337700.0,0.0,,0.0,debt consolidation,Short Term,172172.0,143203.0,11619.0,712.0,0
+239,Own Home,863341.0,10+ years,0.0,12.0,15.1,1226390.0,0.0,,0.0,other,Short Term,365090.0,134520.0,3137.0,751.0,1
+3076,Rent,1985823.0,8 years,0.0,7.0,16.2,904376.0,0.0,,0.0,home improvements,Short Term,175186.0,235885.0,10028.0,747.0,0
+960,Home Mortgage,1760559.0,3 years,0.0,8.0,23.8,365046.0,0.0,14.0,0.0,debt consolidation,Short Term,151470.0,87324.0,12881.0,744.0,0
+4714,Rent,,1 year,0.0,10.0,15.0,336996.0,0.0,73.0,0.0,other,Short Term,109472.0,205770.0,5537.0,,0
+2517,Rent,808773.0,< 1 year,0.0,10.0,30.4,488246.0,0.0,,0.0,debt consolidation,Short Term,133782.0,336072.0,20691.0,745.0,1
+6160,Rent,890169.0,< 1 year,0.0,4.0,11.6,203126.0,0.0,,0.0,business loan,Short Term,223102.0,83163.0,6105.0,747.0,0
+5614,Rent,930620.0,6 years,0.0,13.0,12.0,633292.0,0.0,,0.0,debt consolidation,Long Term,481140.0,409108.0,24274.0,685.0,0
+786,Rent,,1 year,0.0,4.0,24.6,804386.0,0.0,25.0,0.0,debt consolidation,Long Term,392942.0,86146.0,1243.0,,0
+6993,Rent,1417020.0,10+ years,0.0,21.0,12.5,240592.0,0.0,18.0,0.0,debt consolidation,Short Term,191422.0,135698.0,7309.0,736.0,0
+1811,Home Mortgage,2562701.0,1 year,0.0,23.0,27.0,1183292.0,0.0,18.0,0.0,debt consolidation,Short Term,395648.0,400596.0,50827.0,721.0,0
+308,Rent,447659.0,2 years,0.0,5.0,17.5,140624.0,0.0,,0.0,debt consolidation,Short Term,185746.0,32072.0,10744.0,719.0,1
+4147,Home Mortgage,1390382.0,10+ years,0.0,12.0,10.6,307120.0,0.0,21.0,0.0,debt consolidation,Short Term,171732.0,162868.0,20971.0,7220.0,1
+4523,Own Home,,1 year,1.0,5.0,22.2,580888.0,2.0,,1.0,debt consolidation,Short Term,130526.0,104842.0,3005.0,,0
+2197,Rent,940310.0,< 1 year,0.0,10.0,23.7,1239194.0,0.0,,0.0,debt consolidation,Long Term,426800.0,634638.0,24762.0,700.0,1
+1554,Home Mortgage,517009.0,6 years,0.0,9.0,24.0,206228.0,0.0,62.0,0.0,medical bills,Short Term,133034.0,94753.0,8617.0,707.0,1
+2034,Home Mortgage,2477087.0,2 years,0.0,19.0,41.8,2071146.0,0.0,,0.0,debt consolidation,Short Term,557766.0,1214537.0,43555.0,750.0,0
+3742,Rent,499833.0,< 1 year,0.0,10.0,9.9,204732.0,0.0,,0.0,other,Short Term,66770.0,68951.0,4790.0,737.0,1
+7449,Rent,946865.0,< 1 year,0.0,16.0,9.4,329846.0,0.0,,0.0,debt consolidation,Short Term,328922.0,219925.0,11126.0,723.0,0
+2252,Rent,326629.0,2 years,0.0,12.0,7.9,205480.0,0.0,,0.0,buy a car,Short Term,131164.0,75240.0,5036.0,727.0,0
+7416,Home Mortgage,,10+ years,0.0,10.0,21.1,1457434.0,0.0,,0.0,debt consolidation,Long Term,646272.0,633118.0,16683.0,,0
+3937,Rent,747232.0,2 years,0.0,4.0,18.4,207702.0,0.0,34.0,0.0,debt consolidation,Short Term,173052.0,147098.0,6850.0,732.0,0
+1385,Own Home,942685.0,3 years,0.0,11.0,10.3,524502.0,0.0,64.0,0.0,debt consolidation,Short Term,125532.0,207005.0,15633.0,738.0,0
+1954,Rent,808621.0,3 years,0.0,8.0,7.9,187132.0,0.0,32.0,0.0,other,Long Term,222926.0,92606.0,22035.0,710.0,0
+1665,Own Home,797392.0,3 years,0.0,12.0,18.5,750200.0,0.0,70.0,0.0,debt consolidation,Short Term,99999999.0,276659.0,13356.0,744.0,0
+6990,Home Mortgage,3917781.0,10+ years,0.0,14.0,24.6,1033692.0,0.0,,0.0,home improvements,Long Term,570284.0,392806.0,79661.0,737.0,0
+4705,Home Mortgage,1219192.0,2 years,0.0,8.0,26.5,632214.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,368543.0,32207.0,743.0,0
+2913,Home Mortgage,971945.0,10+ years,0.0,8.0,10.7,405240.0,0.0,,0.0,debt consolidation,Short Term,225082.0,158536.0,11663.0,741.0,0
+4270,Rent,774820.0,< 1 year,0.0,11.0,12.7,311652.0,0.0,,0.0,debt consolidation,Short Term,134574.0,187872.0,4378.0,7300.0,1
+3494,Home Mortgage,1132571.0,10+ years,0.0,7.0,17.0,92422.0,0.0,47.0,0.0,debt consolidation,Short Term,139744.0,72884.0,9155.0,714.0,0
+2423,Rent,,10+ years,0.0,7.0,12.4,261756.0,0.0,6.0,0.0,debt consolidation,Short Term,150216.0,112803.0,11722.0,,0
+1078,Home Mortgage,4846425.0,10+ years,2.0,11.0,20.1,716364.0,2.0,16.0,0.0,debt consolidation,Short Term,561176.0,315514.0,42406.0,735.0,0
+4878,Own Home,1626951.0,10+ years,0.0,19.0,17.8,800206.0,1.0,,0.0,debt consolidation,Short Term,252648.0,182457.0,32810.0,743.0,0
+4022,Home Mortgage,,10+ years,0.0,16.0,25.9,1236554.0,0.0,5.0,0.0,debt consolidation,Short Term,264484.0,281941.0,21651.0,,0
+4522,Home Mortgage,1765290.0,2 years,0.0,11.0,22.6,470998.0,0.0,50.0,0.0,debt consolidation,Long Term,602448.0,316882.0,21331.0,720.0,0
+6391,Rent,1058186.0,10+ years,0.0,7.0,20.0,258742.0,0.0,30.0,0.0,debt consolidation,Short Term,517858.0,94734.0,11199.0,739.0,0
+1193,Rent,848331.0,7 years,0.0,8.0,12.0,473462.0,0.0,,0.0,other,Short Term,32736.0,344698.0,12838.0,735.0,1
+3297,Rent,665532.0,1 year,0.0,4.0,8.8,83666.0,0.0,,0.0,other,Short Term,220176.0,59774.0,4443.0,727.0,0
+6816,Home Mortgage,1911020.0,10+ years,0.0,3.0,12.4,752796.0,0.0,,0.0,debt consolidation,Short Term,287650.0,247703.0,5255.0,750.0,0
+7499,Rent,,4 years,0.0,8.0,9.4,480832.0,0.0,,0.0,debt consolidation,Short Term,26928.0,288192.0,9061.0,,0
+1747,Home Mortgage,,4 years,0.0,6.0,17.7,11110.0,0.0,15.0,0.0,other,Short Term,59972.0,8037.0,9529.0,,0
+2689,Rent,,10+ years,0.0,32.0,36.4,2020656.0,0.0,,0.0,other,Short Term,105600.0,57589.0,30297.0,,0
+5885,Home Mortgage,564984.0,6 years,0.0,9.0,9.6,233420.0,0.0,,0.0,debt consolidation,Short Term,117744.0,142918.0,6168.0,743.0,1
+4864,Rent,1599553.0,8 years,0.0,8.0,19.2,872542.0,0.0,14.0,0.0,debt consolidation,Long Term,535546.0,622440.0,41988.0,663.0,0
+2673,Rent,,10+ years,0.0,7.0,39.3,639562.0,0.0,,0.0,debt consolidation,Short Term,323972.0,336927.0,12746.0,,0
+222,Rent,892791.0,2 years,0.0,20.0,9.6,141570.0,0.0,34.0,0.0,debt consolidation,Short Term,134838.0,86811.0,3303.0,741.0,0
+6874,Rent,,10+ years,0.0,8.0,10.8,205018.0,1.0,,1.0,home improvements,Long Term,291214.0,30096.0,29532.0,,1
+5848,Own Home,663271.0,< 1 year,0.0,12.0,18.7,335984.0,1.0,29.0,1.0,debt consolidation,Short Term,153604.0,170924.0,9783.0,740.0,0
+1515,Home Mortgage,,7 years,1.0,12.0,21.1,544764.0,1.0,,0.0,home improvements,Long Term,766150.0,362729.0,48208.0,,1
+4704,Home Mortgage,1050833.0,10+ years,0.0,16.0,16.7,786280.0,0.0,,0.0,debt consolidation,Long Term,337986.0,516097.0,19178.0,719.0,0
+4652,Rent,1232530.0,10+ years,0.0,15.0,33.3,601920.0,0.0,33.0,0.0,debt consolidation,Short Term,263472.0,315552.0,10682.0,732.0,0
+3612,Home Mortgage,2324688.0,5 years,0.0,23.0,19.8,1006830.0,0.0,43.0,0.0,debt consolidation,Short Term,515922.0,498237.0,39907.0,737.0,0
+2227,Rent,1746594.0,9 years,0.0,10.0,13.9,1207096.0,0.0,,0.0,debt consolidation,Long Term,786478.0,710980.0,29255.0,675.0,0
+835,Home Mortgage,1728715.0,6 years,0.0,15.0,17.1,1145694.0,0.0,32.0,0.0,debt consolidation,Short Term,215930.0,300808.0,7722.0,743.0,0
+5543,Rent,1377842.0,10+ years,0.0,10.0,19.5,854502.0,0.0,,0.0,debt consolidation,Short Term,437096.0,523963.0,34217.0,729.0,0
+1281,Rent,,10+ years,0.0,10.0,17.4,765402.0,0.0,12.0,0.0,debt consolidation,Short Term,173338.0,479902.0,19703.0,,0
+2582,Home Mortgage,728479.0,10+ years,0.0,7.0,11.0,271546.0,0.0,,0.0,debt consolidation,Short Term,141152.0,81149.0,9167.0,708.0,0
+2304,Home Mortgage,1840207.0,3 years,0.0,21.0,13.2,994818.0,0.0,63.0,0.0,debt consolidation,Short Term,99999999.0,356554.0,30057.0,729.0,0
+4071,Rent,941545.0,3 years,0.0,7.0,11.4,180906.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,124526.0,12656.0,711.0,0
+4746,Rent,1393935.0,1 year,0.0,6.0,14.6,129118.0,0.0,,0.0,debt consolidation,Long Term,538010.0,79173.0,24510.0,7040.0,1
+6483,Home Mortgage,,8 years,0.0,10.0,13.6,431024.0,0.0,,0.0,debt consolidation,Short Term,217712.0,142196.0,10739.0,,0
+1002,Home Mortgage,1232416.0,10+ years,0.0,9.0,13.5,399234.0,1.0,7.0,1.0,buy a car,Short Term,109780.0,124811.0,5238.0,724.0,0
+7004,Rent,754870.0,10+ years,0.0,11.0,18.5,556644.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,191805.0,13839.0,745.0,0
+4157,Rent,,2 years,0.0,6.0,11.0,232606.0,0.0,45.0,0.0,debt consolidation,Short Term,75350.0,111283.0,5434.0,,0
+6075,Home Mortgage,1179653.0,5 years,0.0,20.0,14.4,489896.0,0.0,53.0,0.0,debt consolidation,Short Term,99999999.0,145540.0,16908.0,745.0,0
+5385,Home Mortgage,1095996.0,5 years,0.0,12.0,14.5,394416.0,0.0,,0.0,other,Long Term,512072.0,164863.0,22377.0,736.0,0
+7198,Home Mortgage,1353009.0,10+ years,0.0,9.0,14.4,465454.0,0.0,56.0,0.0,debt consolidation,Long Term,533786.0,334039.0,26271.0,663.0,0
+1400,Home Mortgage,718485.0,3 years,0.0,10.0,12.8,645216.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,324862.0,17064.0,742.0,0
+2206,Home Mortgage,473024.0,4 years,0.0,14.0,11.3,440044.0,0.0,,0.0,debt consolidation,Short Term,146058.0,80199.0,7174.0,728.0,1
+7183,Home Mortgage,1258370.0,10+ years,0.0,12.0,30.8,632962.0,0.0,,0.0,debt consolidation,Short Term,500192.0,329631.0,34186.0,709.0,0
+5117,Rent,1496440.0,< 1 year,0.0,5.0,16.0,238194.0,0.0,63.0,0.0,business loan,Short Term,108306.0,146661.0,10675.0,734.0,0
+3006,Home Mortgage,2225964.0,10+ years,0.0,7.0,23.1,455466.0,0.0,40.0,0.0,debt consolidation,Short Term,69806.0,357561.0,20776.0,746.0,0
+1871,Home Mortgage,,3 years,0.0,3.0,15.3,242836.0,0.0,,0.0,debt consolidation,Short Term,116182.0,43206.0,1136.0,,0
+3377,Own Home,662815.0,7 years,0.0,12.0,12.7,400906.0,0.0,26.0,0.0,debt consolidation,Long Term,321794.0,102828.0,5910.0,727.0,1
+4362,Home Mortgage,1874787.0,10+ years,1.0,12.0,26.8,744700.0,1.0,72.0,0.0,debt consolidation,Short Term,394702.0,218025.0,23591.0,749.0,0
+5023,Rent,,4 years,0.0,6.0,21.7,44132.0,0.0,34.0,0.0,debt consolidation,Short Term,66176.0,28120.0,5449.0,,1
+5838,Home Mortgage,,5 years,0.0,15.0,9.5,1343870.0,0.0,,0.0,other,Short Term,152438.0,406220.0,40550.0,,0
+5719,Rent,1938190.0,2 years,0.0,11.0,13.6,275572.0,1.0,,1.0,debt consolidation,Short Term,115016.0,58064.0,8916.0,748.0,0
+5650,Home Mortgage,1279973.0,10+ years,0.0,8.0,26.1,679734.0,0.0,6.0,0.0,debt consolidation,Short Term,99999999.0,301739.0,7776.0,747.0,0
+3333,Rent,1814158.0,3 years,0.0,11.0,18.8,647350.0,0.0,,0.0,debt consolidation,Short Term,262570.0,494228.0,13258.0,712.0,0
+5495,Rent,658559.0,4 years,0.0,4.0,14.0,95898.0,0.0,,0.0,other,Short Term,43582.0,73625.0,7244.0,657.0,0
+468,Rent,2443514.0,10+ years,0.0,10.0,20.5,83380.0,0.0,9.0,0.0,debt consolidation,Long Term,99999999.0,65892.0,43983.0,694.0,0
+4092,Rent,,10+ years,0.0,4.0,15.0,2308020.0,0.0,,0.0,debt consolidation,Short Term,208912.0,209304.0,11395.0,,0
+5365,Home Mortgage,5038534.0,1 year,0.0,7.0,26.6,1518066.0,0.0,,0.0,debt consolidation,Short Term,770550.0,899384.0,68440.0,730.0,0
+5099,Home Mortgage,2096726.0,10+ years,0.0,11.0,13.5,980144.0,0.0,71.0,0.0,debt consolidation,Long Term,539506.0,645012.0,27956.0,720.0,0
+5845,Rent,,1 year,0.0,16.0,7.6,758758.0,0.0,,0.0,debt consolidation,Short Term,215160.0,172995.0,5149.0,,0
+5912,Rent,577410.0,7 years,0.0,7.0,12.5,225170.0,0.0,,0.0,debt consolidation,Short Term,222860.0,146433.0,9662.0,743.0,0
+6704,Home Mortgage,1035804.0,3 years,0.0,11.0,15.0,752180.0,0.0,,0.0,debt consolidation,Long Term,261668.0,219564.0,22356.0,6960.0,1
+2168,Rent,,10+ years,0.0,11.0,29.2,810128.0,0.0,,0.0,debt consolidation,Short Term,356642.0,607297.0,27312.0,,0
+5407,Home Mortgage,1470999.0,4 years,0.0,12.0,24.6,1779646.0,0.0,,0.0,debt consolidation,Short Term,456632.0,1126586.0,38491.0,748.0,0
+3231,Rent,582369.0,3 years,0.0,8.0,19.6,226798.0,0.0,35.0,0.0,debt consolidation,Long Term,232342.0,166098.0,9910.0,688.0,0
+2662,Rent,,4 years,0.0,6.0,9.0,311256.0,0.0,,0.0,other,Short Term,393954.0,34675.0,965.0,,0
+6219,Rent,,10+ years,0.0,12.0,13.1,648252.0,0.0,,0.0,debt consolidation,Short Term,296824.0,395827.0,28733.0,,0
+2825,Home Mortgage,1580439.0,10+ years,0.0,9.0,16.0,479820.0,0.0,,0.0,debt consolidation,Long Term,99999999.0,300428.0,18043.0,725.0,0
+6010,Own Home,1362186.0,10+ years,0.0,13.0,33.3,950400.0,0.0,,0.0,debt consolidation,Short Term,338558.0,702601.0,36666.0,746.0,0
+6600,Rent,757796.0,9 years,0.0,8.0,20.7,258720.0,0.0,,0.0,debt consolidation,Short Term,263230.0,204668.0,16608.0,7370.0,1
+5128,Rent,,5 years,0.0,5.0,19.7,238062.0,0.0,53.0,0.0,small business,Long Term,543510.0,50578.0,1747.0,,1
+2716,Home Mortgage,2522611.0,10+ years,5.0,7.0,14.4,235994.0,6.0,56.0,1.0,business loan,Short Term,342650.0,110257.0,14610.0,711.0,0
+3961,Rent,765852.0,4 years,0.0,12.0,8.9,489214.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,6346.0,683.0,734.0,0
+3002,Home Mortgage,1534592.0,< 1 year,0.0,13.0,15.0,544258.0,0.0,67.0,0.0,debt consolidation,Long Term,466444.0,181906.0,26216.0,6760.0,1
+2722,Rent,720347.0,,0.0,7.0,20.0,1111066.0,0.0,15.0,0.0,debt consolidation,Long Term,299068.0,425068.0,9064.0,692.0,0
+50,Rent,665931.0,3 years,0.0,6.0,22.2,279642.0,0.0,,0.0,debt consolidation,Long Term,220308.0,181127.0,9379.0,716.0,0
+5140,Rent,,10+ years,0.0,6.0,17.0,555390.0,0.0,,0.0,debt consolidation,Short Term,277882.0,303620.0,17109.0,,0
+2338,Home Mortgage,800736.0,6 years,0.0,6.0,8.3,204930.0,0.0,,0.0,debt consolidation,Long Term,342298.0,159638.0,12478.0,6490.0,1
+245,Home Mortgage,1119024.0,10+ years,0.0,8.0,21.5,901516.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,478819.0,11190.0,748.0,0
+1539,Rent,458337.0,,0.0,4.0,44.5,370370.0,1.0,70.0,1.0,debt consolidation,Short Term,66594.0,79971.0,11841.0,741.0,1
+2577,Home Mortgage,1935283.0,10+ years,0.0,30.0,15.5,1241130.0,0.0,9.0,0.0,debt consolidation,Short Term,99999999.0,286197.0,30803.0,747.0,0
+5400,Rent,795530.0,1 year,0.0,16.0,11.8,405680.0,0.0,38.0,0.0,debt consolidation,Short Term,288398.0,259616.0,12264.0,720.0,1
+6078,Home Mortgage,919714.0,10+ years,0.0,10.0,10.7,184976.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,114551.0,14026.0,710.0,0
+743,Home Mortgage,,2 years,0.0,9.0,20.1,203984.0,0.0,23.0,0.0,debt consolidation,Short Term,177276.0,127376.0,15507.0,,0
+3715,Home Mortgage,,6 years,0.0,11.0,15.5,215270.0,0.0,19.0,0.0,debt consolidation,Long Term,266596.0,40166.0,14783.0,,0
+4539,Rent,,2 years,0.0,14.0,11.2,613778.0,0.0,,0.0,debt consolidation,Long Term,432124.0,285171.0,48143.0,,1
+1025,Rent,8923844.0,3 years,0.0,15.0,17.2,1452000.0,0.0,,0.0,debt consolidation,Short Term,670428.0,1084710.0,62095.0,723.0,0
+6543,Rent,1451220.0,10+ years,0.0,11.0,20.2,590128.0,0.0,,0.0,debt consolidation,Short Term,313676.0,347073.0,26364.0,7380.0,1
+4945,Rent,1837167.0,5 years,0.0,9.0,9.7,696498.0,0.0,,0.0,business loan,Long Term,498190.0,433713.0,10793.0,6180.0,1
+3519,Home Mortgage,1570312.0,10+ years,0.0,14.0,37.7,869132.0,0.0,19.0,0.0,medical bills,Short Term,726198.0,532190.0,21461.0,720.0,1
+5437,Home Mortgage,1627388.0,8 years,0.0,8.0,15.9,422290.0,0.0,,0.0,debt consolidation,Long Term,259908.0,355585.0,23461.0,683.0,0
+2589,Home Mortgage,930050.0,6 years,0.0,10.0,22.6,183062.0,1.0,,1.0,debt consolidation,Short Term,86152.0,115406.0,15036.0,727.0,0
+4700,Home Mortgage,,9 years,0.0,17.0,15.0,1192158.0,0.0,,0.0,debt consolidation,Long Term,788942.0,560101.0,20765.0,,0
+2022,Rent,615581.0,< 1 year,0.0,14.0,13.7,278608.0,0.0,38.0,0.0,other,Short Term,43208.0,195871.0,14415.0,693.0,0
+4987,Home Mortgage,954180.0,4 years,0.0,15.0,28.8,573276.0,3.0,66.0,3.0,debt consolidation,Short Term,331452.0,114361.0,21469.0,737.0,0
+321,Rent,596163.0,4 years,0.0,8.0,16.8,144254.0,1.0,8.0,1.0,moving,Short Term,99999999.0,70262.0,12668.0,734.0,0
+1507,Rent,,10+ years,0.0,11.0,21.2,261690.0,1.0,,1.0,debt consolidation,Short Term,211970.0,81358.0,16652.0,,0
+4903,Home Mortgage,,3 years,0.0,15.0,25.1,372460.0,0.0,24.0,0.0,debt consolidation,Short Term,399278.0,181754.0,40391.0,,0
+2498,Home Mortgage,1786969.0,,0.0,16.0,44.3,987558.0,0.0,8.0,0.0,debt consolidation,Long Term,556226.0,489554.0,44078.0,723.0,0
+4213,Rent,,< 1 year,0.0,13.0,13.9,761596.0,0.0,,0.0,debt consolidation,Short Term,332486.0,169689.0,15639.0,,0
+4458,Rent,763268.0,7 years,0.0,9.0,25.1,422774.0,0.0,,0.0,debt consolidation,Short Term,76384.0,345040.0,12021.0,701.0,0
+1421,Home Mortgage,,10+ years,0.0,13.0,13.8,1145716.0,0.0,,0.0,debt consolidation,Long Term,488576.0,513551.0,15961.0,,1
+1543,Home Mortgage,1768539.0,3 years,0.0,15.0,13.8,734492.0,0.0,,0.0,debt consolidation,Short Term,271590.0,317167.0,22401.0,750.0,0
+6714,Rent,,4 years,0.0,8.0,11.4,190696.0,0.0,24.0,0.0,debt consolidation,Long Term,323730.0,117914.0,17224.0,,1
+2970,Own Home,558467.0,,0.0,12.0,39.6,354662.0,0.0,,0.0,medical bills,Short Term,112266.0,202768.0,13729.0,735.0,1
+7385,Home Mortgage,1393802.0,10+ years,0.0,15.0,15.0,374594.0,0.0,19.0,0.0,debt consolidation,Short Term,451880.0,180842.0,27643.0,744.0,0
+1807,Rent,1265381.0,10+ years,0.0,16.0,11.9,592944.0,0.0,54.0,0.0,debt consolidation,Short Term,225412.0,377929.0,28365.0,713.0,1
+6552,Home Mortgage,3233230.0,10+ years,0.0,7.0,23.5,487058.0,0.0,,0.0,debt consolidation,Short Term,535678.0,57627.0,26162.0,751.0,0
+2619,Home Mortgage,1615475.0,1 year,0.0,21.0,23.0,1796344.0,0.0,64.0,0.0,debt consolidation,Short Term,710358.0,864120.0,21540.0,730.0,0
+1870,Home Mortgage,1424012.0,10+ years,0.0,12.0,15.6,767360.0,0.0,,0.0,debt consolidation,Long Term,725054.0,440705.0,16851.0,713.0,1
+6989,Home Mortgage,,,0.0,11.0,26.1,1304930.0,0.0,,0.0,other,Short Term,193424.0,166801.0,8360.0,,0
+5909,Home Mortgage,2073603.0,10+ years,0.0,11.0,17.5,1024650.0,0.0,,0.0,other,Long Term,400906.0,544236.0,23501.0,718.0,0
+1407,Own Home,513380.0,3 years,0.0,5.0,10.7,51788.0,0.0,27.0,0.0,other,Short Term,67562.0,36537.0,4355.0,713.0,0
+5278,Home Mortgage,1393650.0,10+ years,0.0,12.0,17.5,1607122.0,0.0,,0.0,debt consolidation,Short Term,132638.0,899403.0,37629.0,747.0,1
+6725,Rent,1257116.0,5 years,0.0,9.0,18.3,557282.0,1.0,,1.0,debt consolidation,Long Term,457402.0,181450.0,21894.0,721.0,0
+2351,Rent,,10+ years,0.0,6.0,21.0,145398.0,0.0,32.0,0.0,other,Short Term,589468.0,110390.0,22689.0,,1
+748,Rent,539714.0,5 years,0.0,6.0,31.0,62480.0,0.0,24.0,0.0,debt consolidation,Short Term,86196.0,43377.0,4151.0,728.0,1
+6012,Rent,1335909.0,2 years,0.0,19.0,15.8,548966.0,1.0,37.0,1.0,debt consolidation,Short Term,326810.0,199595.0,31839.0,719.0,0
+763,Home Mortgage,1516200.0,2 years,0.0,8.0,13.4,443366.0,0.0,,0.0,debt consolidation,Short Term,219450.0,274170.0,21227.0,7380.0,1
+6431,Rent,,4 years,0.0,11.0,13.8,182226.0,0.0,,0.0,debt consolidation,Short Term,124124.0,123690.0,11857.0,,0
+435,Rent,1251435.0,4 years,0.0,18.0,18.5,263098.0,0.0,23.0,0.0,medical bills,Short Term,187264.0,115653.0,29409.0,7170.0,1
+4355,Home Mortgage,1331197.0,5 years,0.0,13.0,13.2,270666.0,0.0,7.0,0.0,other,Short Term,279642.0,111264.0,25182.0,7050.0,1
+3106,Rent,3076385.0,3 years,0.0,5.0,15.4,712624.0,0.0,,0.0,debt consolidation,Short Term,322740.0,349562.0,19407.0,749.0,0
+2002,Home Mortgage,,10+ years,0.0,24.0,18.5,4428138.0,0.0,,0.0,debt consolidation,Short Term,397078.0,1587089.0,40865.0,,0
+2794,Rent,,1 year,0.0,8.0,9.0,176638.0,0.0,,0.0,debt consolidation,Short Term,216964.0,120821.0,8632.0,,0
+6193,Home Mortgage,,10+ years,0.0,9.0,23.9,263252.0,0.0,29.0,0.0,other,Short Term,64790.0,140961.0,9625.0,,0
+5143,Home Mortgage,595194.0,< 1 year,0.0,12.0,10.8,275902.0,0.0,,0.0,debt consolidation,Short Term,177848.0,126996.0,8729.0,733.0,0
+6006,Home Mortgage,,10+ years,0.0,16.0,23.7,1637020.0,0.0,13.0,0.0,debt consolidation,Short Term,430144.0,918973.0,24130.0,,0
+1545,Rent,,2 years,0.0,5.0,17.0,415888.0,0.0,,0.0,debt consolidation,Short Term,559306.0,255740.0,12845.0,,0
+3721,Home Mortgage,3208682.0,5 years,0.0,12.0,14.4,777656.0,0.0,,0.0,debt consolidation,Long Term,764918.0,591014.0,56687.0,672.0,0
+4391,Rent,,10+ years,0.0,16.0,35.8,829708.0,0.0,,0.0,debt consolidation,Short Term,403612.0,397689.0,25416.0,,0
+1741,Rent,597360.0,,0.0,9.0,14.4,391160.0,0.0,,0.0,debt consolidation,Short Term,129690.0,226005.0,12196.0,723.0,1
+1634,Home Mortgage,2836890.0,10+ years,0.0,17.0,12.2,2413686.0,0.0,35.0,0.0,debt consolidation,Short Term,306592.0,1488365.0,24350.0,734.0,0
+486,Home Mortgage,737257.0,< 1 year,0.0,6.0,11.4,37268.0,0.0,14.0,0.0,debt consolidation,Short Term,120384.0,8018.0,4460.0,722.0,1
+6504,Home Mortgage,2255148.0,1 year,0.0,15.0,14.0,2933458.0,0.0,,0.0,other,Short Term,565774.0,184946.0,12178.0,746.0,0
+1005,Home Mortgage,689605.0,10+ years,0.0,8.0,19.3,230538.0,1.0,20.0,1.0,debt consolidation,Short Term,99999999.0,106533.0,17930.0,735.0,0
+5505,Home Mortgage,939170.0,10+ years,0.0,9.0,15.4,189266.0,0.0,,0.0,home improvements,Short Term,99999999.0,131575.0,4790.0,734.0,0
+3879,Home Mortgage,1873191.0,10+ years,0.0,7.0,15.5,711018.0,0.0,,0.0,debt consolidation,Short Term,330308.0,477755.0,10037.0,747.0,0
+6813,Home Mortgage,2893605.0,5 years,0.0,13.0,23.0,1720818.0,0.0,26.0,0.0,debt consolidation,Long Term,781792.0,1288504.0,58113.0,676.0,1
+5724,Home Mortgage,2397097.0,3 years,0.0,10.0,26.1,575190.0,0.0,76.0,0.0,debt consolidation,Short Term,234806.0,348232.0,9369.0,7210.0,1
+7276,Home Mortgage,1188146.0,6 years,0.0,12.0,15.2,1184590.0,0.0,,0.0,debt consolidation,Long Term,99999999.0,423548.0,19901.0,720.0,0
+997,Rent,2900730.0,10+ years,0.0,9.0,28.6,304414.0,0.0,30.0,0.0,debt consolidation,Short Term,783706.0,176396.0,17308.0,669.0,0
+4154,Rent,563160.0,4 years,0.0,5.0,11.7,471064.0,0.0,,0.0,other,Short Term,260832.0,109022.0,6852.0,740.0,0
+811,Home Mortgage,1458877.0,10+ years,0.0,12.0,21.0,264462.0,1.0,1.0,1.0,debt consolidation,Short Term,216568.0,87476.0,10236.0,719.0,0
+4823,Home Mortgage,,2 years,0.0,9.0,7.1,664488.0,0.0,,0.0,debt consolidation,Short Term,284064.0,439603.0,21623.0,,0
+4747,Home Mortgage,1241954.0,10+ years,0.0,9.0,37.1,971630.0,0.0,,0.0,debt consolidation,Short Term,433664.0,220685.0,3291.0,746.0,0
+1618,Rent,2010371.0,10+ years,0.0,19.0,20.6,1672704.0,0.0,,0.0,debt consolidation,Long Term,99999999.0,336585.0,14994.0,739.0,0
+6176,Rent,1517264.0,3 years,0.0,9.0,10.3,204380.0,0.0,48.0,0.0,debt consolidation,Long Term,395296.0,103075.0,9698.0,7320.0,1
+354,Home Mortgage,2126537.0,10+ years,0.0,23.0,23.0,14760482.0,0.0,,0.0,debt consolidation,Long Term,778624.0,1019806.0,40227.0,697.0,0
+48,Home Mortgage,,8 years,0.0,14.0,18.7,252670.0,0.0,29.0,0.0,home improvements,Long Term,323796.0,94696.0,25005.0,,1
+176,Own Home,833416.0,10+ years,0.0,7.0,9.5,237138.0,0.0,59.0,0.0,debt consolidation,Short Term,61402.0,58159.0,3091.0,667.0,0
+6998,Home Mortgage,,2 years,0.0,9.0,14.0,292072.0,0.0,,0.0,debt consolidation,Short Term,315106.0,52212.0,4082.0,,0
+3770,Rent,,< 1 year,0.0,7.0,13.8,619168.0,0.0,27.0,0.0,debt consolidation,Short Term,447172.0,435271.0,15564.0,,0
+1945,Rent,,2 years,0.0,16.0,13.1,349140.0,0.0,30.0,0.0,vacation,Short Term,216106.0,104633.0,11120.0,,1
+4328,Rent,1079732.0,4 years,0.0,4.0,15.7,232804.0,0.0,46.0,0.0,debt consolidation,Short Term,99999999.0,101745.0,9898.0,743.0,0
+2264,Home Mortgage,,< 1 year,0.0,10.0,24.2,572484.0,0.0,,0.0,debt consolidation,Long Term,400994.0,354996.0,12786.0,,1
+1844,Home Mortgage,810692.0,4 years,0.0,7.0,28.0,773762.0,0.0,,0.0,debt consolidation,Short Term,134090.0,149682.0,3358.0,750.0,0
+91,Rent,601369.0,10+ years,0.0,6.0,16.9,0.0,0.0,14.0,0.0,debt consolidation,Short Term,165924.0,0.0,9021.0,738.0,0
+6832,Rent,,10+ years,0.0,9.0,42.6,1209736.0,0.0,,0.0,debt consolidation,Short Term,571164.0,707313.0,29783.0,,0
+2718,Home Mortgage,2995388.0,10+ years,0.0,11.0,14.7,432036.0,0.0,3.0,0.0,debt consolidation,Short Term,768306.0,188423.0,18347.0,713.0,0
+7069,Rent,1522432.0,8 years,0.0,9.0,26.6,954514.0,0.0,,0.0,debt consolidation,Short Term,396638.0,450927.0,18903.0,748.0,0
+1730,Home Mortgage,828723.0,5 years,0.0,14.0,7.6,279180.0,0.0,,0.0,debt consolidation,Short Term,358204.0,135983.0,24171.0,728.0,0
+6511,Rent,1377196.0,3 years,0.0,7.0,17.4,382008.0,0.0,81.0,0.0,debt consolidation,Short Term,237512.0,278787.0,32823.0,733.0,1
+3388,Home Mortgage,2237592.0,2 years,0.0,11.0,16.8,267564.0,0.0,28.0,0.0,debt consolidation,Short Term,440462.0,143735.0,16502.0,746.0,0
+6727,Home Mortgage,4867800.0,9 years,0.0,25.0,30.9,1838166.0,0.0,,0.0,debt consolidation,Long Term,631268.0,771533.0,83158.0,734.0,1
+6680,Rent,804631.0,10+ years,0.0,11.0,16.9,212982.0,0.0,18.0,0.0,other,Short Term,221826.0,107046.0,16763.0,726.0,1
+4047,Home Mortgage,972040.0,5 years,0.0,8.0,16.0,809710.0,0.0,55.0,0.0,debt consolidation,Short Term,99999999.0,346142.0,17983.0,747.0,0
+106,Home Mortgage,2454933.0,10+ years,0.0,10.0,22.4,531454.0,0.0,3.0,0.0,debt consolidation,Short Term,437316.0,383249.0,50122.0,730.0,0
+5831,Home Mortgage,622402.0,3 years,0.0,13.0,10.0,276892.0,0.0,,0.0,debt consolidation,Short Term,101354.0,81795.0,11670.0,736.0,0
+1087,Rent,,10+ years,0.0,8.0,23.2,378290.0,0.0,76.0,0.0,debt consolidation,Short Term,222662.0,209095.0,7788.0,,0
+5377,Home Mortgage,1125180.0,10+ years,0.0,10.0,16.3,240658.0,0.0,,0.0,debt consolidation,Short Term,162866.0,142994.0,12940.0,733.0,0
+4126,Rent,1467769.0,1 year,0.0,8.0,16.5,577632.0,0.0,5.0,0.0,debt consolidation,Long Term,348612.0,345724.0,32413.0,708.0,1
+3856,Home Mortgage,1199261.0,6 years,0.0,7.0,19.7,408672.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,196954.0,12053.0,747.0,0
+6372,Home Mortgage,732032.0,10+ years,0.0,8.0,17.5,276474.0,0.0,16.0,0.0,debt consolidation,Long Term,334598.0,166193.0,10615.0,731.0,0
+5671,Own Home,1256128.0,9 years,0.0,9.0,18.1,1197482.0,0.0,,0.0,debt consolidation,Long Term,608630.0,698079.0,14445.0,611.0,1
+7493,Rent,1257610.0,8 years,0.0,14.0,16.5,821480.0,0.0,58.0,0.0,debt consolidation,Long Term,448052.0,167428.0,27562.0,676.0,1
+1084,Home Mortgage,1039110.0,3 years,0.0,7.0,22.8,98868.0,0.0,78.0,0.0,debt consolidation,Short Term,171886.0,49191.0,11690.0,737.0,0
+7357,Home Mortgage,3853960.0,9 years,0.0,15.0,20.6,2013792.0,0.0,13.0,0.0,debt consolidation,Long Term,780934.0,760019.0,22449.0,722.0,1
+2523,Home Mortgage,560196.0,2 years,0.0,10.0,7.5,294030.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,119605.0,6909.0,742.0,0
+4922,Rent,233453.0,< 1 year,0.0,6.0,12.5,337964.0,0.0,,0.0,home improvements,Short Term,73216.0,104196.0,3404.0,747.0,0
+7481,Home Mortgage,2127202.0,10+ years,0.0,7.0,21.5,369116.0,0.0,27.0,0.0,debt consolidation,Short Term,559790.0,303164.0,16380.0,739.0,0
+2191,Rent,523336.0,4 years,0.0,9.0,5.5,552442.0,0.0,,0.0,debt consolidation,Long Term,259688.0,140277.0,12473.0,7070.0,1
+3473,Home Mortgage,,8 years,0.0,12.0,22.0,931458.0,0.0,,0.0,debt consolidation,Short Term,543136.0,403826.0,26498.0,,0
+2133,Rent,1415367.0,3 years,0.0,7.0,11.5,816750.0,0.0,,0.0,debt consolidation,Short Term,119526.0,117800.0,14861.0,725.0,1
+3012,Home Mortgage,1068313.0,7 years,0.0,10.0,20.7,384472.0,0.0,16.0,0.0,debt consolidation,Long Term,292380.0,196574.0,16470.0,733.0,0
+2225,Rent,,,0.0,8.0,35.6,538846.0,0.0,,0.0,debt consolidation,Short Term,330110.0,303430.0,12753.0,,0
+2287,Home Mortgage,1239940.0,3 years,0.0,14.0,10.6,221012.0,0.0,9.0,0.0,debt consolidation,Short Term,273350.0,134368.0,17876.0,726.0,1
+167,Home Mortgage,1808800.0,5 years,0.0,7.0,23.3,522104.0,1.0,61.0,1.0,debt consolidation,Long Term,436524.0,257013.0,19897.0,717.0,0
+3834,Home Mortgage,,10+ years,0.0,19.0,28.8,1432310.0,0.0,33.0,0.0,debt consolidation,Short Term,258698.0,351310.0,9550.0,,0
+4623,Home Mortgage,,10+ years,0.0,13.0,32.3,428186.0,0.0,18.0,0.0,home improvements,Short Term,329538.0,341696.0,46618.0,,0
+1728,Rent,710524.0,5 years,0.0,6.0,7.6,210210.0,0.0,,0.0,take a trip,Short Term,108262.0,90402.0,3701.0,680.0,0
+7378,Rent,533900.0,< 1 year,0.0,7.0,13.1,297022.0,0.0,70.0,0.0,debt consolidation,Short Term,189002.0,125172.0,4062.0,664.0,0
+2345,Rent,857318.0,6 years,0.0,11.0,15.7,650540.0,0.0,,0.0,debt consolidation,Short Term,441188.0,376979.0,22504.0,730.0,1
+6678,Rent,767904.0,1 year,0.0,9.0,15.4,275528.0,0.0,73.0,0.0,debt consolidation,Short Term,222288.0,168226.0,18302.0,718.0,0
+6092,Home Mortgage,,7 years,0.0,6.0,17.2,193600.0,1.0,54.0,1.0,home improvements,Long Term,337568.0,128079.0,10011.0,,0
+1322,Home Mortgage,1078877.0,9 years,0.0,10.0,20.6,548306.0,0.0,,0.0,debt consolidation,Long Term,397980.0,431870.0,20507.0,680.0,1
+6188,Rent,,2 years,0.0,6.0,16.5,651662.0,0.0,45.0,0.0,debt consolidation,Long Term,400906.0,183464.0,6493.0,,0
+6960,Rent,1547512.0,4 years,0.0,2.0,17.6,60456.0,0.0,35.0,0.0,debt consolidation,Short Term,179190.0,33991.0,5932.0,689.0,1
+4353,Home Mortgage,,10+ years,0.0,6.0,25.2,243760.0,1.0,62.0,1.0,debt consolidation,Short Term,323774.0,152399.0,14043.0,,0
+6469,Rent,1176727.0,2 years,0.0,11.0,20.7,281534.0,0.0,45.0,0.0,debt consolidation,Short Term,178684.0,192337.0,19514.0,739.0,0
+4025,Rent,990565.0,10+ years,0.0,5.0,30.3,17644.0,1.0,,1.0,moving,Short Term,99264.0,6688.0,289.0,7190.0,1
+7477,Rent,1995000.0,3 years,0.0,16.0,21.0,816618.0,0.0,49.0,0.0,buy a car,Short Term,528000.0,29621.0,9559.0,750.0,1
+4352,Home Mortgage,4770425.0,8 years,0.0,11.0,14.0,456170.0,0.0,4.0,0.0,debt consolidation,Short Term,424226.0,320682.0,36851.0,744.0,0
+2119,Home Mortgage,3370068.0,6 years,1.0,15.0,21.5,828938.0,1.0,14.0,0.0,debt consolidation,Short Term,99999999.0,362957.0,58695.0,739.0,0
+5501,Rent,1111842.0,6 years,0.0,14.0,21.5,202686.0,0.0,59.0,0.0,debt consolidation,Short Term,96558.0,93461.0,12508.0,736.0,0
+1414,Home Mortgage,,6 years,0.0,9.0,17.2,1081762.0,0.0,,0.0,debt consolidation,Short Term,431244.0,639958.0,19312.0,,0
+3038,Home Mortgage,2330597.0,2 years,0.0,10.0,29.9,1281808.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,650921.0,30492.0,743.0,0
+2937,Rent,577182.0,10+ years,0.0,13.0,10.1,242968.0,0.0,20.0,0.0,debt consolidation,Long Term,280698.0,155078.0,11111.0,699.0,1
+2260,Rent,1338113.0,10+ years,0.0,11.0,9.0,475992.0,0.0,,0.0,debt consolidation,Long Term,99999999.0,257336.0,15277.0,720.0,0
+5306,Own Home,962635.0,4 years,0.0,3.0,12.2,93610.0,0.0,14.0,0.0,other,Short Term,222926.0,49875.0,1211.0,701.0,0
+5568,Rent,477717.0,2 years,0.0,10.0,8.6,343354.0,0.0,,0.0,debt consolidation,Short Term,154880.0,118313.0,5414.0,741.0,0
+511,Home Mortgage,1950863.0,10+ years,0.0,10.0,14.0,1437612.0,0.0,,0.0,debt consolidation,Short Term,605836.0,972154.0,39505.0,746.0,0
+2942,Rent,,< 1 year,0.0,14.0,10.9,655314.0,0.0,,0.0,debt consolidation,Short Term,329802.0,252415.0,9171.0,,1
+1034,Own Home,789697.0,4 years,0.0,13.0,18.5,1104972.0,0.0,,0.0,debt consolidation,Short Term,261250.0,189905.0,14550.0,751.0,0
+7133,Rent,1321583.0,10+ years,0.0,10.0,35.2,236456.0,0.0,19.0,0.0,debt consolidation,Short Term,330242.0,154774.0,23568.0,717.0,0
+5132,Home Mortgage,2895619.0,2 years,0.0,9.0,32.0,504372.0,0.0,10.0,0.0,debt consolidation,Long Term,482218.0,115862.0,20221.0,734.0,0
+2418,Home Mortgage,1457490.0,7 years,0.0,9.0,14.5,804144.0,0.0,,0.0,debt consolidation,Long Term,99999999.0,13186.0,7203.0,745.0,0
+2685,Own Home,628083.0,< 1 year,0.0,9.0,10.9,425018.0,3.0,30.0,2.0,debt consolidation,Short Term,109538.0,177289.0,16173.0,727.0,1
+5209,Home Mortgage,,10+ years,0.0,6.0,22.1,131824.0,0.0,30.0,0.0,debt consolidation,Long Term,263692.0,110770.0,7009.0,,0
+4264,Home Mortgage,,10+ years,0.0,9.0,17.7,837760.0,0.0,11.0,0.0,debt consolidation,Short Term,620554.0,545528.0,42197.0,,0
+676,Own Home,,6 years,0.0,11.0,25.7,377454.0,0.0,,0.0,debt consolidation,Short Term,242462.0,262086.0,15220.0,,0
+2291,Rent,1196373.0,10+ years,0.0,8.0,18.5,299970.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,252586.0,20039.0,732.0,0
+4750,Home Mortgage,1324110.0,10+ years,0.0,8.0,22.5,442288.0,0.0,,0.0,debt consolidation,Long Term,733810.0,211983.0,13131.0,699.0,0
+4299,Rent,675374.0,2 years,0.0,8.0,14.7,218680.0,0.0,,0.0,debt consolidation,Short Term,129580.0,50426.0,2415.0,736.0,1
+4624,Home Mortgage,,3 years,0.0,9.0,27.0,228624.0,5.0,8.0,0.0,debt consolidation,Short Term,754446.0,81149.0,17732.0,,1
+5478,Home Mortgage,2505568.0,10+ years,0.0,9.0,23.7,178618.0,0.0,12.0,0.0,debt consolidation,Short Term,99999999.0,80826.0,10649.0,739.0,0
+7222,Home Mortgage,1021915.0,3 years,0.0,11.0,16.1,443124.0,0.0,,0.0,debt consolidation,Long Term,451792.0,331797.0,11760.0,687.0,1
+6821,Rent,753388.0,2 years,0.0,10.0,21.3,241978.0,0.0,31.0,0.0,take a trip,Short Term,130856.0,84645.0,10485.0,716.0,0
+5714,Rent,1965322.0,4 years,0.0,4.0,31.0,299046.0,0.0,,0.0,debt consolidation,Short Term,223102.0,233472.0,20800.0,724.0,0
+4949,Home Mortgage,2086447.0,10+ years,0.0,7.0,18.7,213026.0,0.0,,0.0,other,Short Term,440352.0,130606.0,13510.0,694.0,0
+3370,Rent,,10+ years,0.0,11.0,11.6,1222034.0,0.0,11.0,0.0,debt consolidation,Short Term,343970.0,282853.0,15195.0,,0
+3250,Rent,1352002.0,< 1 year,0.0,6.0,5.7,149996.0,0.0,1.0,0.0,debt consolidation,Short Term,326150.0,46246.0,31321.0,715.0,1
+5057,Home Mortgage,1110151.0,5 years,0.0,10.0,12.8,106370.0,0.0,17.0,0.0,debt consolidation,Long Term,332442.0,65664.0,19520.0,676.0,1
+73,Home Mortgage,1631644.0,8 years,0.0,9.0,12.1,862422.0,0.0,,0.0,other,Short Term,351670.0,155667.0,4773.0,718.0,1
+683,Rent,2100640.0,8 years,0.0,10.0,15.7,746614.0,0.0,11.0,0.0,debt consolidation,Short Term,247742.0,183122.0,21532.0,749.0,0
+1922,Own Home,673987.0,10+ years,0.0,8.0,13.5,390148.0,0.0,,0.0,debt consolidation,Short Term,222970.0,305938.0,15445.0,7260.0,1
+6667,Rent,987506.0,9 years,0.0,7.0,14.0,184756.0,0.0,,0.0,debt consolidation,Short Term,131934.0,110257.0,15224.0,702.0,0
+5660,Home Mortgage,1508600.0,10+ years,0.0,7.0,14.4,238062.0,2.0,37.0,2.0,debt consolidation,Long Term,244552.0,153387.0,16595.0,7210.0,1
+1862,Home Mortgage,1245051.0,10+ years,0.0,17.0,17.8,719334.0,0.0,13.0,0.0,debt consolidation,Short Term,262174.0,370880.0,33616.0,6890.0,1
+5185,Home Mortgage,823042.0,7 years,0.0,10.0,14.6,249326.0,0.0,48.0,0.0,debt consolidation,Short Term,129954.0,107882.0,9122.0,743.0,0
+706,Home Mortgage,575016.0,,0.0,14.0,29.2,383812.0,0.0,,0.0,debt consolidation,Short Term,199738.0,274132.0,11788.0,708.0,0
+3541,Home Mortgage,2615844.0,10+ years,0.0,14.0,21.9,2871902.0,0.0,15.0,0.0,debt consolidation,Long Term,757218.0,1904864.0,53843.0,736.0,0
+7353,Rent,973750.0,1 year,0.0,18.0,10.1,435028.0,0.0,,0.0,debt consolidation,Long Term,230010.0,288534.0,22802.0,7000.0,1
+179,Home Mortgage,1094837.0,,0.0,9.0,39.3,611754.0,0.0,,0.0,debt consolidation,Short Term,134420.0,230356.0,17700.0,743.0,0
+4224,Rent,707085.0,1 year,0.0,10.0,14.8,451770.0,0.0,18.0,0.0,debt consolidation,Short Term,263318.0,232940.0,12963.0,738.0,0
+5962,Rent,916104.0,6 years,0.0,13.0,7.5,247280.0,0.0,,0.0,debt consolidation,Short Term,198902.0,70699.0,15955.0,700.0,1
+3382,Rent,534565.0,< 1 year,0.0,7.0,10.7,259270.0,0.0,,0.0,debt consolidation,Short Term,190652.0,220115.0,6891.0,674.0,1
+5338,Rent,1647946.0,3 years,0.0,7.0,17.7,159346.0,0.0,14.0,0.0,other,Short Term,134684.0,97147.0,17166.0,702.0,0
+2164,Home Mortgage,2775083.0,3 years,0.0,10.0,14.5,411246.0,0.0,14.0,0.0,debt consolidation,Long Term,461912.0,254657.0,24744.0,721.0,0
+5680,Home Mortgage,1691874.0,4 years,0.0,12.0,14.6,283030.0,0.0,,0.0,debt consolidation,Short Term,217668.0,191881.0,26083.0,741.0,0
+2574,Rent,1272316.0,10+ years,0.0,24.0,33.4,761860.0,0.0,24.0,0.0,debt consolidation,Long Term,194194.0,144096.0,6383.0,6950.0,1
+31,Own Home,1289796.0,10+ years,0.0,11.0,20.5,845548.0,0.0,,0.0,debt consolidation,Long Term,99999999.0,640433.0,26549.0,708.0,0
+2316,Own Home,,,0.0,11.0,17.4,330968.0,0.0,61.0,0.0,debt consolidation,Short Term,486508.0,119472.0,17676.0,,1
+3985,Rent,1363478.0,< 1 year,0.0,8.0,6.4,140250.0,1.0,20.0,1.0,debt consolidation,Short Term,78936.0,79458.0,21361.0,743.0,0
+4239,Home Mortgage,,,0.0,9.0,19.2,504724.0,0.0,20.0,0.0,medical bills,Short Term,438900.0,377036.0,23037.0,,0
+4927,Rent,,5 years,0.0,8.0,11.7,99132.0,0.0,54.0,0.0,debt consolidation,Short Term,87406.0,73625.0,8728.0,,0
+168,Home Mortgage,2379522.0,2 years,0.0,23.0,17.8,1267530.0,0.0,37.0,0.0,debt consolidation,Short Term,99999999.0,839629.0,39064.0,743.0,0
+3692,Home Mortgage,757055.0,,0.0,17.0,28.7,669460.0,1.0,,1.0,debt consolidation,Short Term,86108.0,192527.0,15267.0,714.0,1
+1656,Rent,1045323.0,10+ years,0.0,4.0,16.3,299090.0,0.0,33.0,0.0,debt consolidation,Long Term,440132.0,181070.0,11847.0,732.0,0
+5413,Home Mortgage,370025.0,6 years,0.0,8.0,25.1,411026.0,0.0,24.0,0.0,home improvements,Long Term,133892.0,17746.0,3278.0,742.0,0
+3977,Rent,690764.0,1 year,0.0,7.0,17.2,322256.0,0.0,,0.0,buy a car,Short Term,159962.0,232940.0,8001.0,747.0,0
+5927,Rent,948176.0,1 year,0.0,12.0,11.7,208692.0,0.0,,0.0,buy a car,Short Term,86108.0,117325.0,10059.0,741.0,0
+3960,Rent,1211782.0,< 1 year,0.0,13.0,15.2,356004.0,0.0,17.0,0.0,debt consolidation,Short Term,311916.0,184471.0,27669.0,7250.0,1
+3142,Rent,1408641.0,2 years,0.0,12.0,27.3,1388420.0,0.0,52.0,0.0,debt consolidation,Short Term,295152.0,254201.0,24417.0,745.0,0
+3210,Rent,1533889.0,7 years,0.0,6.0,12.9,456566.0,0.0,51.0,0.0,debt consolidation,Long Term,781440.0,166801.0,23520.0,601.0,0
+3614,Rent,851409.0,4 years,0.0,4.0,11.0,535788.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,128630.0,13410.0,747.0,0
+6696,Rent,785308.0,< 1 year,0.0,9.0,11.8,47586.0,0.0,,0.0,other,Long Term,64944.0,16150.0,7591.0,742.0,1
+6924,Rent,719682.0,9 years,0.0,8.0,12.6,234872.0,0.0,56.0,0.0,debt consolidation,Short Term,188584.0,83372.0,14754.0,705.0,0
+1606,Home Mortgage,2630740.0,5 years,0.0,11.0,15.0,1333596.0,0.0,33.0,0.0,debt consolidation,Long Term,99999999.0,663404.0,32665.0,740.0,0
+3317,Home Mortgage,2083825.0,< 1 year,0.0,12.0,12.6,1243396.0,0.0,,0.0,debt consolidation,Short Term,767624.0,434910.0,22575.0,733.0,0
+2432,Home Mortgage,1047945.0,,0.0,10.0,18.7,213972.0,0.0,51.0,0.0,other,Long Term,327492.0,151905.0,14497.0,658.0,0
+4817,Home Mortgage,1860518.0,6 years,0.0,14.0,17.0,923736.0,0.0,,0.0,debt consolidation,Long Term,777326.0,745902.0,39691.0,6990.0,1
+6931,Own Home,,4 years,0.0,14.0,14.3,345730.0,1.0,33.0,1.0,debt consolidation,Short Term,110792.0,68666.0,23321.0,,0
+2892,Rent,1087883.0,5 years,0.0,16.0,20.1,387530.0,0.0,17.0,0.0,debt consolidation,Long Term,99999999.0,261060.0,21033.0,717.0,0
+1009,Rent,1522888.0,10+ years,0.0,17.0,18.5,698148.0,1.0,14.0,0.0,debt consolidation,Short Term,352660.0,320169.0,42260.0,732.0,0
+1512,Rent,2326512.0,10+ years,0.0,6.0,15.1,237182.0,0.0,,0.0,other,Short Term,359172.0,4712.0,969.0,744.0,1
+6514,Rent,,5 years,0.0,8.0,12.1,340780.0,0.0,62.0,0.0,other,Short Term,108460.0,142158.0,11429.0,,0
+2977,Own Home,1510880.0,8 years,0.0,20.0,13.9,1908808.0,0.0,4.0,0.0,debt consolidation,Long Term,524832.0,595118.0,18886.0,744.0,0
+7002,Rent,941355.0,4 years,0.0,12.0,11.1,462638.0,0.0,,0.0,debt consolidation,Short Term,261602.0,165813.0,14120.0,746.0,0
+1452,Home Mortgage,820895.0,1 year,0.0,17.0,13.9,548394.0,0.0,,0.0,debt consolidation,Short Term,223124.0,214548.0,10398.0,7190.0,1
+3315,Rent,713336.0,10+ years,0.0,13.0,16.7,211486.0,1.0,,1.0,other,Short Term,184756.0,16264.0,11235.0,711.0,1
+6978,Home Mortgage,952660.0,4 years,0.0,17.0,15.0,1123298.0,0.0,,0.0,debt consolidation,Long Term,397100.0,357979.0,22467.0,698.0,1
+3786,Rent,3708401.0,3 years,0.0,14.0,11.8,883124.0,0.0,42.0,0.0,debt consolidation,Long Term,647328.0,509485.0,27071.0,676.0,0
+5747,Home Mortgage,756580.0,10+ years,0.0,10.0,19.0,229768.0,0.0,32.0,0.0,debt consolidation,Short Term,99999999.0,97831.0,20869.0,739.0,0
+1650,Rent,818463.0,3 years,0.0,20.0,31.7,540056.0,0.0,,0.0,debt consolidation,Short Term,250140.0,372191.0,19711.0,729.0,1
+4103,Home Mortgage,1140684.0,4 years,0.0,9.0,13.9,235686.0,1.0,,1.0,debt consolidation,Short Term,88044.0,105431.0,18061.0,724.0,0
+5180,Rent,1717011.0,8 years,1.0,15.0,13.5,607244.0,1.0,40.0,0.0,debt consolidation,Short Term,441804.0,314146.0,36630.0,686.0,1
+4371,Rent,1360191.0,10+ years,0.0,6.0,16.4,277068.0,0.0,,0.0,debt consolidation,Short Term,532378.0,119643.0,3548.0,7400.0,1
+1175,Rent,676818.0,1 year,0.0,14.0,23.6,213444.0,0.0,33.0,0.0,debt consolidation,Short Term,76186.0,64144.0,8629.0,728.0,0
+500,Home Mortgage,1615494.0,5 years,0.0,10.0,16.9,1320594.0,0.0,,0.0,other,Short Term,99999999.0,250914.0,8158.0,747.0,0
+437,Own Home,1941002.0,10+ years,0.0,11.0,24.9,813846.0,0.0,,0.0,other,Long Term,618772.0,475836.0,16013.0,683.0,1
+1558,Rent,898966.0,10+ years,0.0,8.0,23.5,1066054.0,0.0,,0.0,debt consolidation,Short Term,542146.0,530309.0,14533.0,737.0,0
+1430,Own Home,610736.0,< 1 year,0.0,9.0,16.2,380006.0,0.0,45.0,0.0,debt consolidation,Short Term,101662.0,158840.0,9314.0,713.0,0
+6601,Home Mortgage,1599021.0,6 years,0.0,11.0,19.9,649440.0,0.0,,0.0,debt consolidation,Short Term,435644.0,185098.0,26650.0,728.0,0
+1487,Rent,,3 years,0.0,14.0,14.4,521048.0,0.0,29.0,0.0,debt consolidation,Short Term,374066.0,143108.0,19222.0,,0
+1662,Rent,481745.0,4 years,0.0,7.0,6.6,326238.0,0.0,28.0,0.0,debt consolidation,Short Term,128722.0,105374.0,10157.0,743.0,0
+80,Rent,,10+ years,0.0,6.0,36.8,263934.0,0.0,70.0,0.0,debt consolidation,Long Term,111848.0,60173.0,16918.0,,0
+1586,Rent,946580.0,2 years,0.0,13.0,22.6,271854.0,2.0,,2.0,other,Short Term,52602.0,67146.0,7533.0,705.0,0
+2215,Rent,315419.0,7 years,0.0,10.0,8.7,277156.0,0.0,36.0,0.0,debt consolidation,Short Term,99999999.0,80180.0,5283.0,690.0,0
+6519,Home Mortgage,464930.0,,0.0,7.0,31.8,303116.0,0.0,6.0,0.0,debt consolidation,Short Term,168234.0,225929.0,6897.0,7310.0,1
+5627,Rent,836019.0,1 year,0.0,5.0,21.5,266464.0,1.0,,1.0,debt consolidation,Short Term,215116.0,105868.0,5929.0,743.0,1
+4012,Own Home,,4 years,0.0,19.0,11.0,557832.0,0.0,25.0,0.0,debt consolidation,Long Term,303204.0,204269.0,18719.0,,0
+1569,Home Mortgage,2997497.0,< 1 year,0.0,21.0,21.5,860530.0,0.0,,0.0,debt consolidation,Short Term,333740.0,360449.0,46461.0,745.0,0
+1419,Own Home,1161983.0,5 years,0.0,20.0,21.1,640068.0,0.0,,0.0,debt consolidation,Long Term,260414.0,322829.0,29824.0,684.0,0
+1758,Rent,883177.0,10+ years,0.0,16.0,16.5,1222144.0,0.0,,0.0,debt consolidation,Short Term,403612.0,284981.0,18252.0,745.0,1
+6198,Home Mortgage,1403511.0,10+ years,0.0,9.0,23.0,614020.0,0.0,20.0,0.0,debt consolidation,Short Term,100188.0,405156.0,20234.0,732.0,0
+2586,Rent,1338113.0,10+ years,0.0,9.0,15.8,305712.0,1.0,29.0,1.0,debt consolidation,Short Term,265606.0,134919.0,18957.0,677.0,0
+3881,Home Mortgage,,10+ years,0.0,12.0,12.6,706244.0,0.0,,0.0,debt consolidation,Long Term,519706.0,533691.0,29425.0,,0
+6906,Home Mortgage,,7 years,0.0,9.0,14.4,235488.0,0.0,9.0,0.0,debt consolidation,Short Term,288156.0,130169.0,23338.0,,1
+1383,Rent,1020756.0,< 1 year,0.0,9.0,14.0,495858.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,168302.0,9187.0,738.0,0
+1595,Home Mortgage,2877075.0,10+ years,0.0,10.0,12.7,562848.0,0.0,34.0,0.0,debt consolidation,Short Term,99999999.0,80693.0,38841.0,750.0,0
+2925,Home Mortgage,1536568.0,7 years,0.0,13.0,13.5,220242.0,0.0,28.0,0.0,home improvements,Short Term,99999999.0,147801.0,15878.0,722.0,0
+1426,Home Mortgage,1005195.0,5 years,0.0,20.0,27.3,790460.0,0.0,30.0,0.0,debt consolidation,Short Term,214874.0,341335.0,20439.0,721.0,0
+534,Own Home,412072.0,10+ years,0.0,4.0,22.9,234256.0,0.0,,0.0,other,Short Term,159412.0,159410.0,5134.0,7450.0,1
+1912,Home Mortgage,617785.0,8 years,0.0,7.0,8.6,409992.0,0.0,,0.0,debt consolidation,Short Term,215138.0,234403.0,19718.0,663.0,0
+5908,Home Mortgage,,10+ years,0.0,15.0,14.6,477312.0,0.0,,0.0,debt consolidation,Short Term,218790.0,244036.0,19530.0,,0
+2572,Home Mortgage,695476.0,6 years,0.0,6.0,32.5,124630.0,1.0,,1.0,debt consolidation,Short Term,96624.0,85025.0,11591.0,730.0,0
+7394,Rent,278654.0,< 1 year,0.0,4.0,6.9,66660.0,0.0,18.0,0.0,debt consolidation,Short Term,64526.0,35568.0,7454.0,722.0,0
+585,Home Mortgage,4772800.0,8 years,0.0,9.0,35.5,0.0,0.0,,0.0,small business,Short Term,99999999.0,0.0,2227.0,747.0,0
+858,Home Mortgage,929955.0,< 1 year,0.0,6.0,9.0,256410.0,0.0,40.0,0.0,debt consolidation,Long Term,429638.0,175826.0,8370.0,710.0,0
+7010,Home Mortgage,1704604.0,10+ years,0.0,17.0,39.0,1201508.0,0.0,14.0,0.0,debt consolidation,Short Term,358864.0,671365.0,20171.0,748.0,0
+4015,Rent,954845.0,5 years,0.0,8.0,17.9,335060.0,0.0,36.0,0.0,debt consolidation,Short Term,176902.0,28367.0,9787.0,748.0,0
+3944,Home Mortgage,1535409.0,3 years,0.0,18.0,15.9,1141294.0,0.0,,0.0,debt consolidation,Long Term,542036.0,355813.0,11144.0,718.0,1
+1566,Rent,2474940.0,4 years,0.0,11.0,31.9,718498.0,0.0,3.0,0.0,debt consolidation,Short Term,110220.0,510701.0,28668.0,725.0,0
+4003,Rent,1187500.0,2 years,0.0,17.0,23.0,742280.0,0.0,,0.0,debt consolidation,Long Term,459756.0,515413.0,15002.0,685.0,1
+491,Rent,1599838.0,< 1 year,0.0,17.0,12.7,452408.0,0.0,17.0,0.0,debt consolidation,Short Term,220528.0,204744.0,16798.0,723.0,0
+5507,Home Mortgage,1106959.0,10+ years,0.0,4.0,23.7,60566.0,0.0,,0.0,debt consolidation,Short Term,108086.0,40375.0,950.0,743.0,0
+4166,Rent,1098162.0,4 years,0.0,16.0,15.4,341330.0,1.0,68.0,1.0,debt consolidation,Long Term,407132.0,168321.0,12629.0,682.0,1
+4080,Rent,755288.0,3 years,0.0,14.0,9.6,352330.0,0.0,,0.0,debt consolidation,Short Term,99999999.0,148181.0,6924.0,730.0,0
+1670,Rent,673778.0,< 1 year,0.0,10.0,13.7,528088.0,0.0,,0.0,debt consolidation,Short Term,273064.0,405441.0,13981.0,737.0,0
+1617,Rent,863455.0,4 years,0.0,5.0,16.5,142516.0,0.0,15.0,0.0,debt consolidation,Short Term,87692.0,106343.0,10433.0,730.0,1
+1615,Own Home,6651900.0,10+ years,0.0,13.0,25.1,2155868.0,0.0,,0.0,debt consolidation,Long Term,314380.0,1623569.0,110311.0,719.0,0
+2598,Home Mortgage,1187424.0,2 years,0.0,13.0,20.6,936628.0,0.0,,0.0,debt consolidation,Short Term,436480.0,449749.0,17435.0,745.0,0
+877,Home Mortgage,1004644.0,10+ years,0.0,9.0,28.0,335016.0,0.0,54.0,0.0,debt consolidation,Short Term,324104.0,252016.0,23860.0,742.0,0
+6946,Own Home,6492395.0,1 year,0.0,19.0,26.0,1406526.0,0.0,,0.0,other,Short Term,322190.0,1169773.0,100091.0,707.0,0
+5447,Rent,940310.0,4 years,0.0,15.0,22.5,544522.0,0.0,60.0,0.0,debt consolidation,Short Term,99999999.0,321670.0,23273.0,731.0,0
+7386,Rent,934515.0,4 years,0.0,10.0,14.4,474232.0,0.0,,0.0,debt consolidation,Short Term,285670.0,192907.0,6074.0,744.0,0
+3903,Home Mortgage,1575613.0,6 years,0.0,10.0,22.8,2519946.0,0.0,25.0,0.0,debt consolidation,Short Term,144606.0,900999.0,12513.0,728.0,0
+2462,Home Mortgage,837216.0,7 years,0.0,3.0,10.6,140008.0,0.0,,0.0,debt consolidation,Short Term,170720.0,97204.0,2958.0,7320.0,1
+3213,Rent,878712.0,10+ years,0.0,4.0,13.4,348480.0,0.0,34.0,0.0,debt consolidation,Short Term,309672.0,179075.0,15744.0,745.0,0
+3132,Rent,,10+ years,0.0,14.0,16.2,704968.0,0.0,,0.0,debt consolidation,Short Term,259534.0,401831.0,23610.0,,1
+6007,Rent,,< 1 year,0.0,5.0,14.2,106700.0,0.0,,0.0,debt consolidation,Short Term,85888.0,72713.0,2670.0,,1
+4084,Home Mortgage,2780137.0,10+ years,0.0,24.0,35.8,2045384.0,0.0,65.0,0.0,debt consolidation,Short Term,457930.0,731310.0,26180.0,748.0,0
