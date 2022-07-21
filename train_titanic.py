@@ -78,4 +78,4 @@ def train_titanic_model(data_path, model_path):
     f1, accuracy = get_model_scores(model, X_test, y_test)
     save_model(model, model_path)
 
-    return model, f1, accuracy
+    return f1, accuracy
