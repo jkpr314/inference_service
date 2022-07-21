@@ -71,7 +71,7 @@ column_name_mapping = dict(
             "home_ownership_home_mortage",
             "home_ownership_own_home",
             "home_ownership_rent",
-            "anual_income",
+            "annual_income",
             "number_of_open_accounts",
             "credit_score",
             "ratio_loan_over_credit",
