@@ -4,6 +4,7 @@ from sklearn.linear_model import LogisticRegression as LR
 from sklearn.metrics import f1_score, accuracy_score
 import joblib
 
+
 titanic = pd.read_csv("data/titanic_survive_train.csv")
 
 prediction_rows = titanic.sample(frac=0.1, random_state=42)
@@ -37,7 +38,7 @@ X = X.drop("Sex_female", axis=1)
 
 X.columns = [i.lower() for i in X.columns]
 
-X_train, X_test, y_train, y_test = train_test_split(X, y)
+X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=42)
 
 model = LR()
 model.fit(X_train, y_train)
