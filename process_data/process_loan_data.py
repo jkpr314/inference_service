@@ -1,6 +1,7 @@
 from dataclasses import dataclass
 
 import numpy as np
+import pandas as pd
 
 
 @dataclass
@@ -77,3 +78,86 @@ def process_loan_raw_data(data: dict) -> LoanInput:
         credit_score=credit_score,
         ratio_loan_over_credit=ratio_loan_over_credit,
     )
+
+
+def prepare_loan_data(df):
+    y = df["Credit Default"]
+
+    columns = [
+        "Annual Income",
+        "Number of Open Accounts",
+        "Term",
+        "Credit Score",
+        "Home Ownership",
+        "Current Loan Amount",
+        "Current Credit Balance",
+    ]
+
+    df_x = df[columns].copy()
+
+    df_x["ratio_loan_over_credit"] = (
+        df_x["Current Loan Amount"] / df_x["Current Credit Balance"]
+    )
+
+    feature_columns = [
+        "Annual Income",
+        "Number of Open Accounts",
+        "Credit Score",
+        "ratio_loan_over_credit",
+    ]
+
+    X = pd.concat(
+        [
+            pd.get_dummies(df_x["Term"], prefix="term", prefix_sep="_"),
+            pd.get_dummies(
+                df_x["Home Ownership"],
+                prefix="home_ownership",
+                prefix_sep="_",
+            ),
+            df_x[feature_columns],
+        ],
+        axis=1,
+    )
+
+    column_name_mapping = dict(
+        zip(
+            [
+                "term_Long Term",
+                "term_Short Term",
+                "home_ownership_Have Mortgage",
+                "home_ownership_Home Mortgage",
+                "home_ownership_Own Home",
+                "home_ownership_Rent",
+                "Annual Income",
+                "Number of Open Accounts",
+                "Credit Score",
+                "ratio_loan_over_credit",
+            ],
+            [
+                "term_long_term",
+                "term_short_term",
+                "home_ownership_have_mortage",
+                "home_ownership_home_mortage",
+                "home_ownership_own_home",
+                "home_ownership_rent",
+                "annual_income",
+                "number_of_open_accounts",
+                "credit_score",
+                "ratio_loan_over_credit",
+            ],
+        )
+    )
+
+    X.columns = X.columns.map(column_name_mapping)
+
+    X = X.drop("term_long_term", axis=1)
+    X = X.drop("home_ownership_rent", axis=1)
+
+    X.loc[X.isna().any(axis=1), "annual_income"] = (
+        X.annual_income.dropna().mean().round()
+    )
+    X.loc[X.isna().any(axis=1), "credit_score"] = X.credit_score.dropna().mean().round()
+    X.loc[X.isin([np.inf]).any(axis=1), "ratio_loan_over_credit"] = X[
+        ~X.isin([np.inf]).any(1)
+    ].ratio_loan_over_credit.mean()
+    return X, y
