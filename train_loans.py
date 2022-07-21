@@ -84,7 +84,7 @@ X.columns = X.columns.map(column_name_mapping)
 X = X.drop("term_long_term", axis=1)
 X = X.drop("home_ownership_rent", axis=1)
 
-X.loc[X.isna().any(axis=1), "anual_income"] = X.anual_income.dropna().mean().round()
+X.loc[X.isna().any(axis=1), "annual_income"] = X.annual_income.dropna().mean().round()
 X.loc[X.isna().any(axis=1), "credit_score"] = X.credit_score.dropna().mean().round()
 X.loc[X.isin([np.inf]).any(axis=1), "ratio_loan_over_credit"] = X[
     ~X.isin([np.inf]).any(1)
