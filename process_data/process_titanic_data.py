@@ -2,6 +2,8 @@ from dataclasses import dataclass
 
 import pandas as pd
 
+# prepare for prediction
+
 
 @dataclass
 class TitanicInput:
@@ -43,6 +45,9 @@ def process_titanic_raw_data(data: dict) -> TitanicInput:
         age=age,
         fare=data.get("Fare"),
     )
+
+
+# prepare for training
 
 
 def prepare_titanic_data(df):

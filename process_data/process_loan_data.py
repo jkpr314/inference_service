@@ -3,6 +3,8 @@ from dataclasses import dataclass
 import numpy as np
 import pandas as pd
 
+# prepare for prediction
+
 
 @dataclass
 class LoanInput:
@@ -53,6 +55,9 @@ def process_ratio_loan_over_credit(data):
     if np.isinf(ratio):
         return 500.288
     return ratio
+
+
+# prepare for training
 
 
 def process_loan_raw_data(data: dict) -> LoanInput:
