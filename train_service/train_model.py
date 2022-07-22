@@ -2,6 +2,7 @@ from model_registry import ModelRegistryEntry
 
 from train_service.utils import train_model
 
+import joblib
 
 def train_all():
     model_registry = []
@@ -19,8 +20,6 @@ def train_all():
         model_version="0.0.1",
     )
 
-    model_registry.append(titanic_model_registry_entry)
-
     model_path = "../models/loan_model.joblib"
     data_path = "../data/loan_default_train_data.csv"
     f1, accuracy = train_model(data_path, model_path, product="loans")
@@ -33,6 +32,12 @@ def train_all():
         model_version="0.0.1",
     )
 
-    model_registry.append(loans_model_registry_entry)
+    model_registry += [titanic_model_registry_entry, loans_model_registry_entry]
 
     return model_registry
+
+
+if __name__ == "__main__":
+    models = train_all()
+
+    joblib.dump(models, '../configs/model_registry/model_registry.joblib')
