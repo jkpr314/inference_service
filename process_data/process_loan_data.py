@@ -166,3 +166,18 @@ def prepare_loan_data(df):
         ~X.isin([np.inf]).any(1)
     ].ratio_loan_over_credit.mean()
     return X, y
+
+
+if __name__ == "__main__":
+    print("raw data")
+
+    pd.set_option("display.max_columns", 500)
+    data_path = "../data/loan_default_train_data.csv"
+    df = pd.read_csv(data_path)
+    print(df.head())
+
+    X, y = prepare_loan_data(df)
+
+    print("\nprocessed data\n")
+
+    print(X.head())
