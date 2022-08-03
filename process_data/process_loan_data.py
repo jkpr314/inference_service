@@ -181,3 +181,5 @@ if __name__ == "__main__":
     print("\nprocessed data\n")
 
     print(X.head())
+    print("========")
+    print(X.head(1))
