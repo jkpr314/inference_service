@@ -1,4 +1,5 @@
 import joblib
+import mlflow
 import pandas as pd
 from sklearn.linear_model import LogisticRegression as LR
 from sklearn.metrics import f1_score, accuracy_score
@@ -38,7 +39,6 @@ def save_model(model, model_path):
 
 
 def train_model(data_path, model_path, product):
-
     df = load_data(data_path, product)
     if product == "loans":
         prepare_data = prepare_loan_data
